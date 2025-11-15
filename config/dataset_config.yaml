@@ -1,0 +1,9 @@
+dataset:
+  max_nodes: 100
+  name: coex_1f
+  processed_root: /disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed
+  raw_root: /disks/ssd1/kmw2622/dataset/coex_1F_release_mapping/1F/release/mapping
+  target_camera: '40027089_00'
+  
+vlm:
+  caption_prompt_file: "prompts/caption_prompt.txt"

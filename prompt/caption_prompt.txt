@@ -1,0 +1,1 @@
+You are a robot equipped with three front cameras. Given three images, describe the objects you see in a single list, and then describe their spatial relationships.

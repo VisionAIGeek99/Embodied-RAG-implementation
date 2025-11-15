@@ -1,0 +1,1102 @@
+[
+  {
+    "node_id": 0,
+    "timestamp": 1571636004579869,
+    "position": [
+      -153.92219863972716,
+      300.0031389894899,
+      -9.39332752364979
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00000.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Wall with a water feature\n3. Wooden paneling\n4. Elevator doors\n5. Digital display screen\n6. Pillar\n7. Marble floor with black and white stripes\n8. Fire extinguisher\n\n### Spatial Relationships:\n- The escalator is positioned at an angle, leading upward and is located to the left of the image.\n- The wall with the water feature is adjacent to the escalator, providing a backdrop.\n- The wooden paneling is directly behind the elevator doors, creating a warm contrast to the water feature.\n- The elevator doors are centrally located in the image, flanked by the wooden paneling on either side.\n- The digital display screen is mounted above the elevator doors, indicating its proximity to the entrance.\n- The pillar is situated to the right of the elevator doors, providing structural support.\n- The marble floor extends throughout the space, featuring a pattern of black and white stripes that leads toward the elevator area.\n- The fire extinguisher is positioned on the floor near the elevator doors, indicating safety equipment placement."
+  },
+  {
+    "node_id": 1,
+    "timestamp": 1571636011379869,
+    "position": [
+      -152.47681686147604,
+      298.480924120739,
+      -9.41853201947468
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00001.jpg",
+    "caption": "### Objects Identified:\n1. Slanted metallic structure (possibly a roof or canopy)\n2. Green wall with a textured surface\n3. Brown cylindrical column\n4. Marble floor with black and white patterns\n5. Ceiling with visible beams\n\n### Spatial Relationships:\n- The slanted metallic structure is positioned above and slightly to the left of the green wall.\n- The green wall is adjacent to the brown cylindrical column, which is located to the right of the green wall.\n- The marble floor extends beneath all the objects, providing a base for the slanted structure, green wall, and column.\n- The ceiling is above the entire scene, with visible beams running parallel to the floor."
+  },
+  {
+    "node_id": 2,
+    "timestamp": 1571636014179869,
+    "position": [
+      -150.48155284396685,
+      299.1660016057985,
+      -9.433514727667278
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00002.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Metal columns\n3. Marble floor\n4. Stairs\n5. Signage\n6. Escalator\n7. Person (standing)\n\n### Spatial Relationships:\n- The large glass windows are positioned along the walls, allowing natural light to enter the space.\n- Metal columns are distributed throughout the area, supporting the ceiling and creating a structural framework.\n- The marble floor extends across the entire space, providing a smooth surface beneath the columns and stairs.\n- The stairs are located towards the back of the area, leading up to another level.\n- Signage is placed near the stairs, indicating directions or information about the building.\n- An escalator is situated adjacent to the stairs, providing an alternative route to the upper level.\n- A person is standing near the stairs, positioned in the foreground relative to the escalator and signage."
+  },
+  {
+    "node_id": 3,
+    "timestamp": 1571636016979869,
+    "position": [
+      -150.73162450273,
+      301.1823752936285,
+      -9.396439909026444
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00003.jpg",
+    "caption": "### Objects Identified:\n1. Three individuals (people)\n2. Glass wall\n3. Trees (visible through the glass)\n4. Black railing\n5. Marble floor\n\n### Spatial Relationships:\n- The three individuals are standing on the marble floor, with one person positioned slightly in front of the others.\n- The glass wall is behind the individuals, providing a view of the trees outside.\n- The black railing is situated near the edge of the marble floor, possibly indicating a boundary or separation from another area.\n- The trees are located outside the glass wall, visible through the transparent structure."
+  },
+  {
+    "node_id": 4,
+    "timestamp": 1571636020179869,
+    "position": [
+      -152.93945029442196,
+      300.766019413659,
+      -9.407067215197916
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00004.jpg",
+    "caption": "### Objects Observed:\n1. A large metallic column\n2. A person in a beige coat\n3. A person in a blue shirt\n4. Glass doors\n5. Marble flooring\n6. Wooden wall panels\n7. Ceiling with lights\n\n### Spatial Relationships:\n- The large metallic column is positioned towards the left side of the image, providing structural support.\n- The person in the beige coat is standing near the column, slightly to the left of the center.\n- The person in the blue shirt is walking towards the right side of the image, moving away from the column and towards the glass doors.\n- The glass doors are located at the far right of the image, indicating an exit or entrance point.\n- The marble flooring extends throughout the area, with distinct black and white patterns leading towards the glass doors.\n- The wooden wall panels are situated on the left side of the image, creating a contrast with the marble flooring and glass doors.\n- The ceiling is above all objects, featuring lights that illuminate the space."
+  },
+  {
+    "node_id": 5,
+    "timestamp": 1571636022979869,
+    "position": [
+      -152.3491272966066,
+      298.7698141820391,
+      -9.426222379149085
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00005.jpg",
+    "caption": "### Objects Observed:\n1. A person walking\n2. A large green wall or panel\n3. A reflective ceiling\n4. A marble floor\n5. Wooden walls or panels\n6. An elevator or directional sign\n7. A digital display screen\n\n### Spatial Relationships:\n- The person is walking on the marble floor, positioned towards the right side of the image.\n- The large green wall is located to the left of the person, creating a backdrop.\n- The reflective ceiling is above the scene, angled downwards, reflecting parts of the environment.\n- The wooden walls are in the background, framing the area where the person is walking.\n- The digital display screen is mounted on the wall, likely near the entrance or elevator area, positioned above the wooden panels. \n- The elevator or directional sign is also visible, indicating movement or direction, situated near the digital display."
+  },
+  {
+    "node_id": 6,
+    "timestamp": 1571636025779869,
+    "position": [
+      -150.3180997665281,
+      299.3406633464593,
+      -9.429714587014763
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00006.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Pillars\n3. Staircase\n4. Black platform or stage\n5. Marble floor\n6. Signage (partially visible)\n7. Greenery (plants outside the glass)\n\n### Spatial Relationships:\n- The large glass windows are positioned along the left side of the image, allowing light to enter the space.\n- Pillars are spaced throughout the area, providing structural support and dividing the space visually.\n- The staircase is located in the foreground, leading up to a black platform or stage area.\n- The marble floor extends across the entire space, reflecting light and creating a sense of openness.\n- The greenery is visible through the glass windows, situated outside the building, enhancing the view from inside. \n- The signage is positioned to the right, indicating information about the space, likely near the entrance or exit."
+  },
+  {
+    "node_id": 7,
+    "timestamp": 1571636028179869,
+    "position": [
+      -150.6227466310691,
+      301.38471588190697,
+      -9.382726288530755
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00007.jpg",
+    "caption": "### Objects Observed:\n1. Glass wall with a grid structure\n2. Three individuals (standing)\n3. Marble floor\n4. Black railing\n5. Trees outside (visible through the glass)\n6. Building structure (partially visible)\n\n### Spatial Relationships:\n- The glass wall is positioned at the back of the scene, serving as a boundary between the interior and the exterior.\n- The three individuals are standing in front of the glass wall, spaced apart from each other.\n- The marble floor extends beneath the individuals, providing a surface they are standing on.\n- The black railing is located in front of the individuals, separating them from the area beyond the glass wall.\n- The trees are visible outside the glass wall, indicating a landscaped area beyond the building's interior."
+  },
+  {
+    "node_id": 8,
+    "timestamp": 1571636030579869,
+    "position": [
+      -152.7218398944024,
+      301.5549798060442,
+      -9.394188438103848
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00008.jpg",
+    "caption": "### Objects Identified:\n1. Large metallic column\n2. Glass entrance doors\n3. Vending machine (red)\n4. Wall with wooden paneling\n5. Marble floor with black and white patterns\n6. Large glass windows\n\n### Spatial Relationships:\n- The large metallic column is positioned centrally in the foreground.\n- The glass entrance doors are located directly behind the column, indicating they are part of the entrance area.\n- The vending machine is situated to the right of the entrance doors, against the wall with wooden paneling.\n- The wall with wooden paneling is on the left side of the image, contrasting with the glass and marble elements.\n- The marble floor extends throughout the area, with visible patterns leading towards the entrance.\n- The large glass windows are positioned on the right side, allowing natural light into the space."
+  },
+  {
+    "node_id": 9,
+    "timestamp": 1571636032979869,
+    "position": [
+      -153.97722603176658,
+      299.7372350361474,
+      -9.411127943985031
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00009.jpg",
+    "caption": "### Objects Identified:\n1. Vertical metallic column\n2. Brown wall paneling\n3. Glass doors\n4. Marble floor with black stripes\n5. Fire extinguisher\n6. Person (in the background)\n\n### Spatial Relationships:\n- The vertical metallic column is positioned centrally in the image, standing on the marble floor.\n- The brown wall paneling is located to the left of the column, creating a backdrop.\n- The glass doors are situated directly in front of the column, providing an entrance or exit.\n- The marble floor extends throughout the area, with black stripes running parallel to the column and doors.\n- The fire extinguisher is placed on the floor near the column, slightly to the left.\n- A person is visible in the background, moving towards the glass doors, indicating a flow of movement towards the entrance."
+  },
+  {
+    "node_id": 10,
+    "timestamp": 1571636035379869,
+    "position": [
+      -155.051177320922,
+      297.7996053980646,
+      -9.409387352055782
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00010.jpg",
+    "caption": "### Objects Observed:\n1. A tall, cylindrical metallic column.\n2. A wooden wall panel.\n3. A marble floor with black and white stripes.\n4. Glass doors with metallic frames.\n5. A person standing near the glass doors.\n\n### Spatial Relationships:\n- The cylindrical column is positioned towards the left side of the image, standing upright on the marble floor.\n- The wooden wall panel is located directly behind the column, occupying the left background area.\n- The marble floor extends across the entire area, with visible black and white stripes running horizontally.\n- The glass doors are situated on the right side of the image, framed in metal and leading to another space.\n- The person is standing close to the glass doors, indicating they are likely about to enter or exit through them."
+  },
+  {
+    "node_id": 11,
+    "timestamp": 1571636037779869,
+    "position": [
+      -156.88312949498356,
+      296.5603766929886,
+      -9.424726051689493
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00011.jpg",
+    "caption": "### Objects Seen:\n1. Glass entrance doors\n2. Two people walking through the doors\n3. Wall with a plaque\n4. Marble floor\n5. Coca-Cola vending machine\n\n### Spatial Relationships:\n- The glass entrance doors are centrally located at the front of the image, leading into the building.\n- The two people are positioned just outside the entrance, moving through the doors.\n- The wall with the plaque is to the left of the entrance doors.\n- The marble floor extends across the entire foreground, providing a reflective surface.\n- The Coca-Cola vending machine is situated to the right of the entrance doors, positioned against the wall."
+  },
+  {
+    "node_id": 12,
+    "timestamp": 1571636040179869,
+    "position": [
+      -158.9466404473253,
+      295.73345226160495,
+      -9.414431581845397
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00012.jpg",
+    "caption": "### Objects Seen:\n1. Glass doors\n2. Two people (not identifiable)\n3. Coca-Cola vending machine\n4. Marble floor\n5. Wall with a sign (partially visible)\n\n### Spatial Relationships:\n- The glass doors are centrally located, leading into a space behind them.\n- The two people are positioned in front of the glass doors, indicating they are likely entering or exiting.\n- The Coca-Cola vending machine is situated to the right of the glass doors, positioned against the wall.\n- The marble floor extends throughout the area, providing a reflective surface beneath the people and the vending machine.\n- The wall with the sign is behind the glass doors, partially visible, suggesting it is part of the interior space beyond the doors."
+  },
+  {
+    "node_id": 13,
+    "timestamp": 1571636042979869,
+    "position": [
+      -160.60998355447927,
+      294.55319508336845,
+      -9.422310618857306
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00013.jpg",
+    "caption": "### Objects Observed:\n1. Brown wall panel\n2. Gray wall\n3. Glass doors\n4. Plaque on the wall\n5. Marble floor with black and white stripes\n6. Ceiling with lights\n\n### Spatial Relationships:\n- The **brown wall panel** is positioned to the left of the **gray wall**.\n- The **glass doors** are located in the center, directly in front of the **brown wall panel** and the **gray wall**.\n- The **plaque** is mounted on the **gray wall**, to the right of the **glass doors**.\n- The **marble floor** extends across the entire area, with visible **black and white stripes** running along its length.\n- The **ceiling** is above all the objects, featuring lights that illuminate the space."
+  },
+  {
+    "node_id": 14,
+    "timestamp": 1571636045379869,
+    "position": [
+      -161.18449206125118,
+      292.480125803009,
+      -9.436653820827956
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00014.jpg",
+    "caption": "### Objects Seen:\n1. Wall with a wooden panel\n2. Wall with a textured surface\n3. Sign with the text \"INTERCONTINENTAL\"\n4. Glass doors\n5. Floor with marble tiles\n6. Dark object (possibly a cart or trash bin) in the background\n\n### Spatial Relationships:\n- The wooden panel wall is positioned to the left of the image.\n- The textured wall is adjacent to the wooden panel wall, forming a corner.\n- The sign is mounted on the textured wall, positioned above the entrance created by the glass doors.\n- The glass doors are centrally located, leading into the interior space.\n- The marble floor extends across the foreground, with the dark object located further back, behind the glass doors."
+  },
+  {
+    "node_id": 15,
+    "timestamp": 1571636047779869,
+    "position": [
+      -162.34096070048983,
+      290.6426806663043,
+      -9.444441383975484
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00015.jpg",
+    "caption": "### Objects Observed:\n1. Glass door with metallic handle\n2. Wall with a plaque\n3. Smooth, polished floor\n4. Vertical columns\n5. Dimly lit area in the background\n6. Black object (possibly a cart) partially visible\n\n### Spatial Relationships:\n- The glass door is positioned to the left, leading into the space.\n- The plaque is mounted on the wall adjacent to the door, indicating proximity.\n- The polished floor extends throughout the area, providing a smooth surface beneath the door and columns.\n- Vertical columns are located further back in the space, creating depth.\n- The dimly lit area is behind the columns, suggesting it is a separate section of the space.\n- The black object is located near the back, partially obscured, indicating it is further away from the viewer."
+  },
+  {
+    "node_id": 16,
+    "timestamp": 1571636050179869,
+    "position": [
+      -164.04458637664462,
+      289.34080038172056,
+      -9.459505028031554
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00016.jpg",
+    "caption": "### Objects Seen:\n1. Wall with a textured surface\n2. Wall with a smooth surface\n3. Ceiling lights\n4. Sign (with the text \"INTERCONTINENTAL\")\n5. Trash bin on wheels\n6. Floor with a glossy finish\n\n### Spatial Relationships:\n- The textured wall is positioned to the left of the image, while the smooth wall is directly in front.\n- The ceiling lights are evenly distributed across the ceiling above both walls.\n- The sign is mounted on the smooth wall, slightly above eye level.\n- The trash bin is located towards the left side, near the corner where the textured wall meets the smooth wall.\n- The glossy floor extends throughout the space, reflecting the light from the ceiling and the walls."
+  },
+  {
+    "node_id": 17,
+    "timestamp": 1571636052579869,
+    "position": [
+      -166.16626347256337,
+      288.72654111674245,
+      -9.503421636648577
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00017.jpg",
+    "caption": "### Objects Detected:\n1. Wall\n2. Ceiling lights\n3. Plaque\n4. Floor\n\n### Spatial Relationships:\n- The wall is the primary vertical surface in the scene, extending from the floor to the ceiling.\n- The ceiling lights are mounted on the ceiling, illuminating the area below.\n- The plaque is affixed to the wall, positioned above the floor and below the ceiling lights.\n- The floor is a flat surface beneath the wall and plaque, reflecting the light from the ceiling."
+  },
+  {
+    "node_id": 18,
+    "timestamp": 1571636054979869,
+    "position": [
+      -168.31369282419777,
+      289.1511666139397,
+      -9.445993608340652
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00018.jpg",
+    "caption": "### Objects Identified:\n1. Wall with a sign\n2. Elevator doors\n3. Ceiling lights\n4. Floor surface (marble)\n\n### Spatial Relationships:\n- The wall with the sign is positioned on the left side of the image.\n- The elevator doors are located further back, to the right of the wall with the sign.\n- The ceiling lights are mounted above the wall and elevator doors, providing illumination.\n- The floor surface is beneath all the objects, extending across the entire area visible in the image."
+  },
+  {
+    "node_id": 19,
+    "timestamp": 1571636057379869,
+    "position": [
+      -170.19011025124956,
+      290.28880435953505,
+      -9.433148446104054
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00019.jpg",
+    "caption": "### Objects Observed:\n1. Gray walls\n2. Ceiling lights\n3. Floor (polished surface)\n4. Elevator doors (partially visible)\n\n### Spatial Relationships:\n- The gray walls are positioned vertically on either side of the space, creating a corridor-like effect.\n- The ceiling lights are mounted on the ceiling, evenly distributed across the area, illuminating the space below.\n- The polished floor extends horizontally beneath the walls and lights, reflecting their surfaces.\n- The elevator doors are located at the back of the space, aligned with the walls, suggesting access to upper or lower floors."
+  },
+  {
+    "node_id": 20,
+    "timestamp": 1571636059779869,
+    "position": [
+      -171.01604241310466,
+      292.3071792372071,
+      -9.35071907783127
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00020.jpg",
+    "caption": "### Objects Observed:\n1. Ceiling lights\n2. Wall panels\n3. Floor tiles\n4. Elevator doors\n5. Empty space\n\n### Spatial Relationships:\n- The ceiling lights are mounted on the ceiling, evenly distributed across the room.\n- The wall panels are positioned vertically along the sides of the room, adjacent to the elevator doors.\n- The floor tiles cover the ground area, extending beneath the wall panels and elevator doors.\n- The empty space is primarily in the center of the room, surrounded by the wall panels and the elevator doors."
+  },
+  {
+    "node_id": 21,
+    "timestamp": 1571636062179869,
+    "position": [
+      -171.94181490249227,
+      294.37267955801144,
+      -9.365331062381037
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00021.jpg",
+    "caption": "### Objects Observed:\n1. Elevator doors\n2. Wall with a smooth surface\n3. Ceiling lights\n4. Floor with a tiled surface\n5. Signage (indicating elevator)\n\n### Spatial Relationships:\n- The elevator doors are positioned on the left side of the image, facing the viewer.\n- The smooth wall is adjacent to the elevator doors, extending vertically.\n- The ceiling lights are mounted above, evenly spaced across the ceiling.\n- The floor is beneath all objects, providing a surface for the elevator and walls.\n- The signage is located near the elevator doors, likely indicating their function."
+  },
+  {
+    "node_id": 22,
+    "timestamp": 1571636064579869,
+    "position": [
+      -172.75253211930897,
+      296.3830155910509,
+      -9.345051706017388
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00022.jpg",
+    "caption": "### Objects Observed:\n1. Ceiling lights\n2. Elevator doors\n3. Wall panels\n4. Floor tiles\n\n### Spatial Relationships:\n- The ceiling lights are positioned above the elevator doors and wall panels, illuminating the area.\n- The elevator doors are located on the left side of the image, adjacent to the wall panels.\n- The wall panels extend vertically along the sides of the elevator doors, creating a smooth transition to the ceiling.\n- The floor tiles cover the ground area beneath the ceiling lights and in front of the elevator doors, providing a flat surface for movement."
+  },
+  {
+    "node_id": 23,
+    "timestamp": 1571636066979869,
+    "position": [
+      -173.63623509809952,
+      298.36870404561313,
+      -9.27173372739199
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00023.jpg",
+    "caption": "### Objects Observed:\n1. Ceiling lights\n2. Elevator doors\n3. Wall panels\n4. Floor tiles\n\n### Spatial Relationships:\n- The ceiling lights are positioned above the elevator doors and wall panels, providing illumination to the space.\n- The elevator doors are located on the left and right sides of the image, set into the wall panels.\n- The wall panels extend vertically from the floor to the ceiling, framing the elevator doors.\n- The floor tiles cover the ground area beneath the wall panels and elevator doors, creating a smooth surface that connects all elements in the space."
+  },
+  {
+    "node_id": 24,
+    "timestamp": 1571636069379869,
+    "position": [
+      -174.6606147524752,
+      300.3565182624267,
+      -9.14960942117557
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00024.jpg",
+    "caption": "### Objects Seen:\n1. Elevator doors\n2. Wall with a smooth surface\n3. Ceiling lights\n4. Floor with a reflective surface\n5. Vertical lines on the wall\n\n### Spatial Relationships:\n- The elevator doors are positioned on the left side of the image, leading into the wall.\n- The smooth wall is adjacent to the elevator doors, extending vertically and horizontally.\n- Ceiling lights are mounted above the wall and elevator doors, providing illumination.\n- The reflective floor is below the wall and elevator doors, creating a mirrored effect.\n- Vertical lines on the wall run parallel to the elevator doors, enhancing the verticality of the space."
+  },
+  {
+    "node_id": 25,
+    "timestamp": 1571636071779869,
+    "position": [
+      -174.53346987379706,
+      302.21070912920504,
+      -9.240702815779986
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00025.jpg",
+    "caption": "### Objects Seen:\n1. Gray wall\n2. Light fixtures\n3. Floor with a pattern\n\n### Spatial Relationships:\n- The gray wall forms the vertical boundaries of the space, extending from the floor to the ceiling.\n- The light fixtures are mounted on the upper part of the wall, illuminating the area.\n- The patterned floor is positioned below the walls, creating a base for the space. The pattern on the floor runs parallel to the walls, enhancing the overall design of the area."
+  },
+  {
+    "node_id": 26,
+    "timestamp": 1571636074179869,
+    "position": [
+      -172.5319387700641,
+      302.3834745189845,
+      -9.266429891231008
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00026.jpg",
+    "caption": "### Objects Observed:\n1. Wall with a smooth, reflective surface\n2. Ceiling lights\n3. Fire extinguisher (red)\n4. Electrical panel (gray)\n5. Person (in the background)\n\n### Spatial Relationships:\n- The wall is the primary surface, extending vertically and horizontally.\n- The ceiling lights are mounted above the wall, illuminating the space.\n- The fire extinguisher is positioned on the floor near the wall, to the left of the electrical panel.\n- The electrical panel is mounted on the wall, slightly above the fire extinguisher.\n- The person is standing further back in the space, to the right of the fire extinguisher and electrical panel, indicating they are in the same area but at a different depth."
+  },
+  {
+    "node_id": 27,
+    "timestamp": 1571636076579869,
+    "position": [
+      -171.76839609800248,
+      300.47857070376153,
+      -9.30308938694597
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00027.jpg",
+    "caption": "### Objects Observed:\n1. Ceiling lights\n2. Wall with a smooth surface\n3. Elevator doors\n4. Sign on the wall\n5. Two people (one on the left and one in the center)\n6. Floor with a glossy finish\n\n### Spatial Relationships:\n- The ceiling lights are positioned above the floor, illuminating the area.\n- The wall with a smooth surface is directly in front of the camera, extending vertically.\n- The elevator doors are located to the left of the wall, indicating an entrance to an elevator.\n- The sign is mounted on the wall, likely providing information or direction.\n- The two people are standing on the floor; one is closer to the left side of the image, while the other is more centered.\n- The floor is beneath all objects, providing a reflective surface that enhances the lighting in the space."
+  },
+  {
+    "node_id": 28,
+    "timestamp": 1571636078979869,
+    "position": [
+      -172.48844476280917,
+      298.3845498023221,
+      -9.312814118525361
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00028.jpg",
+    "caption": "### Objects Seen:\n1. Gray wall\n2. Ceiling lights\n3. Floor tiles\n4. Elevator door\n5. Sign on the wall\n6. Person (blurred)\n\n### Spatial Relationships:\n- The gray wall is the main backdrop, covering most of the image.\n- Ceiling lights are positioned above the gray wall, illuminating the space.\n- The floor tiles are directly below the wall, creating a seamless transition from the wall to the ground.\n- The elevator door is located to the left of the image, integrated into the wall.\n- The sign is mounted on the wall, positioned to the right of the elevator door.\n- The person is standing on the floor tiles, slightly to the left of the center, facing away from the wall."
+  },
+  {
+    "node_id": 29,
+    "timestamp": 1571636081379869,
+    "position": [
+      -172.6810235794687,
+      296.19531627744755,
+      -9.343326470429636
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00029.jpg",
+    "caption": "### Objects Observed:\n1. Two people (walking)\n2. Ceiling lights\n3. Wall (with a textured surface)\n4. Elevator doors\n5. A sign on the wall\n6. Floor (reflective surface)\n\n### Spatial Relationships:\n- The two people are positioned in the foreground, walking towards the center of the space.\n- The ceiling lights are mounted above the individuals, illuminating the area.\n- The wall with a textured surface is located to the right of the individuals, providing a backdrop.\n- The elevator doors are situated in the background, directly behind the individuals.\n- The sign on the wall is mounted to the left of the elevator doors, at a height above the floor.\n- The reflective floor spans the entire area, reflecting the light and the figures above it."
+  },
+  {
+    "node_id": 30,
+    "timestamp": 1571636083779869,
+    "position": [
+      -172.14821627248227,
+      294.05091857620954,
+      -9.365347787280124
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00030.jpg",
+    "caption": "### Objects Observed:\n1. Two individuals (standing)\n2. Elevator doors (two sets)\n3. Wall sign (with text)\n4. Wall (smooth surface)\n5. Ceiling lights (multiple)\n6. Floor (polished surface)\n7. Bench (to the left)\n\n### Spatial Relationships:\n- The two individuals are standing in the center of the space, facing each other.\n- The elevator doors are located directly behind the individuals, indicating a point of entry or exit.\n- The wall sign is mounted on the wall to the right of the individuals, suggesting it provides information about the location.\n- The smooth wall surrounds the area, creating a defined space.\n- The ceiling lights are positioned above, illuminating the area.\n- The polished floor reflects the light and the figures above, enhancing visibility.\n- The bench is positioned to the left of the scene, indicating a place for seating away from the main activity area."
+  },
+  {
+    "node_id": 31,
+    "timestamp": 1571636086179869,
+    "position": [
+      -171.47559967868045,
+      291.92210489086074,
+      -9.394370552105
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00031.jpg",
+    "caption": "### Objects Observed:\n1. Two people\n2. Elevator doors\n3. Wall\n4. Floor\n5. Ceiling lights\n6. Trolley/cart\n\n### Spatial Relationships:\n- The two people are standing on the floor, facing each other at a distance.\n- The elevator doors are located directly behind the two people, centered in the background.\n- The wall surrounds the area, providing a backdrop to the scene.\n- The ceiling lights are positioned above the individuals, illuminating the space.\n- The trolley/cart is positioned to the left side of the scene, near the wall, but not directly in front of the people."
+  },
+  {
+    "node_id": 32,
+    "timestamp": 1571636088579869,
+    "position": [
+      -170.5517942821105,
+      289.90584465931596,
+      -9.416807394696102
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00032.jpg",
+    "caption": "### Objects Identified:\n1. Two elevators\n2. Two black carts\n3. Two people (one in a blue shirt and one in a dark shirt)\n4. Ceiling lights\n5. Wall panels\n\n### Spatial Relationships:\n- The two elevators are positioned centrally on the wall, with one slightly to the left of the other.\n- The two black carts are located to the left of the elevators, parallel to the wall.\n- The person in the blue shirt is standing in front of the elevators, facing towards them, while the person in the dark shirt is positioned slightly behind and to the right of the person in the blue shirt.\n- The ceiling lights are evenly spaced above the area, illuminating the space below. \n- The wall panels surround the elevators and contribute to the overall aesthetic of the lobby area."
+  },
+  {
+    "node_id": 33,
+    "timestamp": 1571636090979869,
+    "position": [
+      -169.51043100759233,
+      287.94219495325575,
+      -9.43816350144569
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00033.jpg",
+    "caption": "### Objects Detected:\n1. Elevator doors (two)\n2. Trolley (black)\n3. Fire extinguisher\n4. Trash bin\n5. Ceiling lights\n\n### Spatial Relationships:\n- The two elevator doors are positioned on the wall directly ahead, with one on the left and one on the right.\n- The black trolley is located to the left of the elevator doors, closer to the foreground.\n- The fire extinguisher is mounted on the wall to the right of the right elevator door.\n- The trash bin is situated on the floor to the right of the trolley, further away from the elevator doors.\n- Ceiling lights are evenly spaced across the ceiling, illuminating the entire area."
+  },
+  {
+    "node_id": 34,
+    "timestamp": 1571636093379869,
+    "position": [
+      -168.44274420086117,
+      285.99129602674907,
+      -9.468991093217232
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00034.jpg",
+    "caption": "### Objects Observed:\n1. Three elevator doors\n2. Wall with a smooth surface\n3. Ceiling lights\n4. Fire extinguisher\n5. Floor with a shiny surface\n\n### Spatial Relationships:\n- The three elevator doors are positioned side by side on the wall, with the leftmost door being the first, the middle door in the center, and the rightmost door being the last.\n- The wall containing the elevator doors is vertical and extends upward to the ceiling.\n- The ceiling lights are mounted above the elevator doors, providing illumination to the area.\n- The fire extinguisher is located on the floor to the right of the rightmost elevator door, positioned against the wall.\n- The floor is flat and shiny, extending beneath the elevator doors and the fire extinguisher."
+  },
+  {
+    "node_id": 35,
+    "timestamp": 1571636095779869,
+    "position": [
+      -167.5852647795921,
+      284.0257964746696,
+      -9.520420866316538
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00035.jpg",
+    "caption": "### Objects Detected:\n1. Two elevator doors\n2. Elevator call buttons\n3. Floor indicator sign (\"1F\")\n4. Wall with a smooth surface\n5. Floor with a tiled surface\n6. Yellow tactile paving\n\n### Spatial Relationships:\n- The two elevator doors are positioned side by side on the wall.\n- The elevator call buttons are located next to each elevator door, allowing access to each.\n- The floor indicator sign (\"1F\") is mounted above the elevator doors, indicating the current floor.\n- The wall with a smooth surface surrounds the elevator doors and the call buttons.\n- The floor, which has a tiled surface, is directly beneath the elevator doors and extends throughout the area.\n- The yellow tactile paving is placed on the floor in front of the elevator doors, likely to assist visually impaired individuals in navigating the space."
+  },
+  {
+    "node_id": 36,
+    "timestamp": 1571636100579869,
+    "position": [
+      -165.89113543841512,
+      285.2662241677861,
+      -9.483494209813138
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00036.jpg",
+    "caption": "### Objects Observed:\n1. Ceiling lights\n2. Wall panels\n3. Elevator doors\n4. Floor tiles\n5. A person (blurred)\n6. Exit sign\n\n### Spatial Relationships:\n- The ceiling lights are positioned above the floor, illuminating the space.\n- The wall panels are located on the sides of the area, providing a backdrop for the elevator doors.\n- The elevator doors are situated on the right side of the image, leading to an area beyond.\n- The floor tiles cover the ground, reflecting the light from the ceiling.\n- The person is standing to the left, near the wall, indicating proximity to the elevator doors.\n- The exit sign is mounted on the wall, positioned above the elevator doors, indicating an exit route."
+  },
+  {
+    "node_id": 37,
+    "timestamp": 1571636103379869,
+    "position": [
+      -166.9483269572841,
+      287.32428927558135,
+      -9.463281824417594
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00037.jpg",
+    "caption": "### Objects Observed:\n1. Ceiling lights\n2. Wall panels\n3. Floor tiles\n4. Elevator doors\n5. A person (blurry)\n6. A wall\n\n### Spatial Relationships:\n- The ceiling lights are mounted on the ceiling, illuminating the space below.\n- The wall panels are positioned vertically along the walls, adjacent to the floor tiles.\n- The floor tiles cover the ground area, reflecting the light from the ceiling.\n- The elevator doors are located on one side of the room, set into the wall panels.\n- The person is standing on the floor tiles, positioned to the left side of the image, moving towards the elevator doors."
+  },
+  {
+    "node_id": 38,
+    "timestamp": 1571636105779869,
+    "position": [
+      -166.9128359604335,
+      289.481103078304,
+      -9.44977781962902
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00038.jpg",
+    "caption": "### Objects Observed:\n1. Glass doors\n2. Exit signs\n3. Wall\n4. Floor\n5. Ceiling\n6. Scaffolding (in the background)\n7. Curved structure (in the background)\n\n### Spatial Relationships:\n- The glass doors are positioned centrally, allowing access to the area beyond.\n- Exit signs are mounted above the glass doors, indicating emergency exits.\n- The wall is located to the left of the glass doors, providing structural support.\n- The floor is beneath all objects, reflecting light and creating a polished appearance.\n- The ceiling is above, providing overhead coverage.\n- Scaffolding is visible in the background, suggesting ongoing construction or maintenance.\n- The curved structure is located further back, indicating a transition to another space or area."
+  },
+  {
+    "node_id": 39,
+    "timestamp": 1571636108179869,
+    "position": [
+      -165.15157281934523,
+      290.7810743138663,
+      -9.423798515671338
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00039.jpg",
+    "caption": "### Objects Seen:\n1. Glass doors\n2. Marble floor\n3. Pillars\n4. Stairs\n5. Windows\n6. Walls\n7. Seating area\n8. Ceiling lights\n\n### Spatial Relationships:\n- The glass doors are positioned at the forefront, leading into the space.\n- The marble floor extends throughout the area, providing a surface beneath all other objects.\n- Pillars are spaced evenly throughout the area, supporting the ceiling above.\n- The stairs are located towards the back, rising from the floor level.\n- Large windows are situated along the walls, allowing natural light to fill the space.\n- The seating area is positioned to one side, adjacent to the walls and near the stairs.\n- Ceiling lights are installed above, illuminating the entire area."
+  },
+  {
+    "node_id": 40,
+    "timestamp": 1571636110579869,
+    "position": [
+      -163.25596550049838,
+      291.9078558787721,
+      -9.448299730662018
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00040.jpg",
+    "caption": "### Objects Identified:\n1. Large glass windows\n2. Ceiling with light fixtures\n3. Curved architectural structure\n4. Marble floor\n5. Pillars\n6. Reception area with a counter\n7. People (in the background)\n\n### Spatial Relationships:\n- The large glass windows are positioned on the left side, allowing natural light to flood the space.\n- The ceiling with light fixtures is directly above the marble floor, providing illumination.\n- The curved architectural structure is located towards the right side of the image, creating a visual flow from the entrance to the reception area.\n- The pillars are spaced throughout the area, supporting the ceiling and creating a sense of depth.\n- The reception area with a counter is situated at the far end of the space, indicating a transition from the open area to a more defined service area.\n- People are scattered in the background, indicating movement and activity within the space."
+  },
+  {
+    "node_id": 41,
+    "timestamp": 1571636112979869,
+    "position": [
+      -161.36314647778633,
+      293.10813720661497,
+      -9.419612435743966
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00041.jpg",
+    "caption": "### Objects Identified:\n1. Large glass windows\n2. Curved staircase\n3. Marble flooring\n4. Pillars\n5. Green wall\n6. Reception area or counter\n7. People (small figures in the distance)\n\n### Spatial Relationships:\n- The **large glass windows** are positioned along the left side, allowing natural light to flood the space.\n- The **curved staircase** is located centrally, leading upwards and creating a focal point in the room.\n- The **marble flooring** extends throughout the area, providing a reflective surface beneath the other objects.\n- **Pillars** are situated on either side of the space, supporting the ceiling and adding structural integrity.\n- The **green wall** is positioned to the right, contrasting with the marble flooring and glass.\n- The **reception area** is located further back on the right side, indicating a functional space for welcoming visitors.\n- **People** are scattered in the background, indicating movement and activity within the space."
+  },
+  {
+    "node_id": 42,
+    "timestamp": 1571636115379869,
+    "position": [
+      -159.51590077060607,
+      294.3458088417059,
+      -9.425372876684742
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00042.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Marble flooring\n3. Curved architectural structure (possibly a staircase or balcony)\n4. Vertical support columns\n5. Seating area (tables and chairs)\n6. People (two visible in the distance)\n\n### Spatial Relationships:\n- The large glass windows are positioned along the left side of the image, allowing natural light to flood the space.\n- The marble flooring extends throughout the area, reflecting the light from the windows and creating a polished appearance.\n- The curved architectural structure is located towards the upper right, hovering above the marble flooring and supported by vertical columns.\n- The vertical support columns are situated near the glass windows, providing structural support to the building.\n- The seating area is located further back in the image, beyond the marble flooring, indicating a designated space for relaxation or meetings.\n- The two people are positioned in the distance, moving towards the seating area, suggesting a flow of movement through the space."
+  },
+  {
+    "node_id": 43,
+    "timestamp": 1571636117779869,
+    "position": [
+      -157.70609548623065,
+      295.62341276252914,
+      -9.429591087283995
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00043.jpg",
+    "caption": "### Objects Seen:\n1. Large glass windows\n2. Curved wall\n3. Columns (support beams)\n4. Marble floor\n5. Staircase\n6. People (in the distance)\n\n### Spatial Relationships:\n- The large glass windows are positioned along the left side of the image, allowing natural light to fill the space.\n- The curved wall is located towards the right, adjacent to the glass windows.\n- Columns are strategically placed throughout the area, providing structural support and dividing the space.\n- The marble floor extends across the entire area, reflecting light and creating a polished appearance.\n- The staircase is situated in the background, leading up from the marble floor.\n- People are seen in the distance, moving towards the staircase and near the curved wall."
+  },
+  {
+    "node_id": 44,
+    "timestamp": 1571636120179869,
+    "position": [
+      -155.91970376125892,
+      296.95899732462567,
+      -9.415659158712993
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00044.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Curved wall structure\n3. Marble floor\n4. Metal columns\n5. Escalator\n6. Signage (with text)\n7. People (in the distance)\n8. Steps leading up\n\n### Spatial Relationships:\n- The large glass windows are positioned along the left side, allowing natural light to fill the space.\n- The curved wall structure is located to the right, creating a modern architectural feature.\n- The marble floor extends throughout the area, providing a smooth surface beneath the objects.\n- Metal columns are strategically placed, supporting the ceiling and adding to the structural integrity.\n- The escalator is situated towards the back, leading to an upper level.\n- Signage is mounted on the wall near the escalator, indicating directions or information.\n- People are seen in the distance, moving towards the escalator or along the marble floor.\n- Steps leading up are positioned adjacent to the escalator, providing an alternative route to the upper level."
+  },
+  {
+    "node_id": 45,
+    "timestamp": 1571636122579869,
+    "position": [
+      -154.04080617000622,
+      298.1080188134044,
+      -9.412109761887042
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00045.jpg",
+    "caption": "### Objects Seen:\n1. Large glass windows\n2. Marble flooring\n3. Metal columns\n4. Escalator\n5. Signage (indicating \"North\")\n6. People walking in the background\n7. Wall with a textured surface\n\n### Spatial Relationships:\n- The large glass windows are positioned on the left side of the image, allowing natural light to enter the space.\n- The marble flooring extends throughout the area, providing a reflective surface.\n- Metal columns are placed vertically, supporting the overhead structure, with some visible in the foreground and background.\n- The escalator is located towards the center, leading upwards, and is positioned behind the signage.\n- The \"North\" signage is mounted on a structure that appears to be angled, located above the escalator.\n- People are seen walking in the background, indicating movement towards the escalator and the entrance area. \n- The textured wall is situated to the right, contrasting with the glass and marble elements."
+  },
+  {
+    "node_id": 46,
+    "timestamp": 1571636124979869,
+    "position": [
+      -151.9307897946753,
+      298.4210908104889,
+      -9.4249479246565
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00046.jpg",
+    "caption": "### Objects Identified:\n1. Glass wall\n2. Metallic structure (possibly a ceiling or roof)\n3. Water feature (wall with flowing water)\n4. Marble floor\n5. Wooden wall or paneling\n\n### Spatial Relationships:\n- The glass wall is positioned to the left, creating a transparent barrier.\n- The metallic structure is angled above the glass wall, suggesting it serves as a roof or overhead feature.\n- The water feature is located to the right of the glass wall, rising vertically and adding a decorative element to the space.\n- The marble floor extends across the area, providing a polished surface beneath the glass wall and water feature.\n- The wooden wall or paneling is situated behind the water feature, indicating a layered design in the background."
+  },
+  {
+    "node_id": 47,
+    "timestamp": 1571636127379869,
+    "position": [
+      -150.98175283697492,
+      296.57996901467163,
+      -9.455058267703137
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00047.jpg",
+    "caption": "### Objects Detected:\n1. Elevator doors\n2. Wall with wooden panels\n3. Signboard\n4. Column\n5. Fire extinguisher\n6. Marble floor\n\n### Spatial Relationships:\n- The elevator doors are positioned centrally in the image, facing the viewer.\n- The wall with wooden panels surrounds the elevator area, providing a backdrop.\n- The signboard is mounted above the elevator doors, indicating directions or information.\n- A metallic column is located to the right of the image, standing vertically.\n- The fire extinguisher is placed on the floor near the bottom right corner, close to the wall.\n- The marble floor extends throughout the area, reflecting the light and creating a polished appearance."
+  },
+  {
+    "node_id": 48,
+    "timestamp": 1571636129779869,
+    "position": [
+      -152.50137683335834,
+      295.1753262418555,
+      -9.466023353130169
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00048.jpg",
+    "caption": "### Objects Seen:\n1. Glass doors\n2. Three people\n3. Vending machines\n4. Marble floor\n5. Wall with a plaque\n6. Large windows\n\n### Spatial Relationships:\n- The **glass doors** are centrally located at the back of the space.\n- The **three people** are positioned in front of the glass doors, interacting with one another.\n- The **vending machines** are situated to the right side of the image, against the wall.\n- The **marble floor** extends throughout the area, reflecting the light and objects above it.\n- The **wall with a plaque** is located to the left of the glass doors, providing a backdrop to the entrance.\n- The **large windows** are on the right side, allowing natural light to enter the space."
+  },
+  {
+    "node_id": 49,
+    "timestamp": 1571636132179869,
+    "position": [
+      -154.24210159364458,
+      296.2874253226219,
+      -9.436862722626815
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00049.jpg",
+    "caption": "### Objects Observed:\n1. Tall column\n2. Glass wall\n3. Man (standing)\n4. Trees (outside)\n5. Marble floor\n6. Black ledge or planter\n7. Glass railing\n\n### Spatial Relationships:\n- The tall column is positioned on the left side of the image, providing structural support.\n- The glass wall is directly in front of the column, allowing visibility to the outside.\n- The man is standing near the black ledge or planter, which is adjacent to the glass wall.\n- The trees are visible through the glass wall, located outside the building.\n- The marble floor extends across the foreground, with black stripes running along its surface.\n- The glass railing is situated near the edge of the black ledge, providing a boundary along the space."
+  },
+  {
+    "node_id": 50,
+    "timestamp": 1571636134979869,
+    "position": [
+      -153.43600445338137,
+      298.30484777670205,
+      -9.42325121892821
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00050.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Curved ceiling\n3. Metal columns\n4. Marble flooring\n5. Escalator\n6. Green signage\n7. People (small figures in the distance)\n8. Black steps/platform\n\n### Spatial Relationships:\n- The **large glass windows** are positioned along the left side of the image, allowing natural light to fill the space.\n- The **curved ceiling** is above the area, creating an open and airy feel.\n- **Metal columns** are spaced throughout the area, providing structural support and dividing the space.\n- The **marble flooring** extends across the entire area, reflecting light and enhancing the aesthetic.\n- The **escalator** is located in the background, leading to another level, and is aligned with the central axis of the space.\n- The **green signage** is mounted on a wall to the right, indicating directions or information.\n- **People** can be seen in the distance, suggesting movement through the space.\n- The **black steps/platform** are positioned in front of the escalator, creating a transition between different levels of the area."
+  },
+  {
+    "node_id": 51,
+    "timestamp": 1571636137779869,
+    "position": [
+      -151.31893665432116,
+      297.5023287159307,
+      -9.446580449361045
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00051.jpg",
+    "caption": "### Objects Seen:\n1. Green water feature/wall\n2. Brown wooden wall\n3. Elevator doors (multiple)\n4. Digital display screen\n5. Marble floor\n6. Ceiling with a metallic structure\n\n### Spatial Relationships:\n- The green water feature is positioned to the left of the brown wooden wall.\n- The elevator doors are located directly in front of the brown wooden wall, suggesting they provide access to the upper floors.\n- The digital display screen is mounted above the elevator doors, indicating information related to the elevators.\n- The marble floor extends throughout the area, reflecting the features above it, including the green wall and the ceiling.\n- The ceiling, with its metallic structure, is angled and positioned above the marble floor, creating a layered architectural effect."
+  },
+  {
+    "node_id": 52,
+    "timestamp": 1571636140179869,
+    "position": [
+      -150.17639470312224,
+      295.6059166859058,
+      -9.462266992290958
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00052.jpg",
+    "caption": "### Objects Seen:\n1. Green textured wall\n2. Brown wooden wall\n3. Elevator doors\n4. Signage above the elevators\n5. Marble floor with black lines\n\n### Spatial Relationships:\n- The green textured wall is positioned to the left of the brown wooden wall.\n- The brown wooden wall is adjacent to the elevator doors, which are located directly in front of the viewer.\n- The signage is suspended above the elevator doors, indicating the floors.\n- The marble floor extends across the entire area, with black lines running parallel to the walls and leading towards the elevators."
+  },
+  {
+    "node_id": 53,
+    "timestamp": 1571636142579869,
+    "position": [
+      -148.64644469204836,
+      294.0356895248016,
+      -9.477612337445466
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00053.jpg",
+    "caption": "### Objects Identified:\n1. Curved green wall\n2. Brown wooden wall\n3. Elevator doors\n4. Marble floor\n5. Lighting fixtures\n\n### Spatial Relationships:\n- The curved green wall is positioned prominently on the left side of the image, creating a focal point.\n- The brown wooden wall is adjacent to the green wall, forming a corner where they meet.\n- The elevator doors are located to the right of the brown wooden wall, indicating access to upper floors.\n- The marble floor extends throughout the space, providing a base for all objects, with visible patterns that enhance the aesthetic.\n- Lighting fixtures are installed above, illuminating the area and highlighting the textures of the walls and floor."
+  },
+  {
+    "node_id": 54,
+    "timestamp": 1571636144979869,
+    "position": [
+      -146.49528445574086,
+      293.65412558652787,
+      -9.498478814416682
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00054.jpg",
+    "caption": "### Objects Seen:\n1. Tall cylindrical pillars\n2. Curved wall with a textured surface\n3. Wooden paneling\n4. Tables with chairs\n5. Floor with marble tiles\n6. Glass windows\n7. Staircase in the background\n8. Light fixtures in the ceiling\n\n### Spatial Relationships:\n- The tall cylindrical pillars are positioned vertically and are spaced apart, supporting the ceiling.\n- The curved wall is adjacent to the pillars and extends along the space, creating a smooth transition in the architecture.\n- The wooden paneling is located behind the tables, providing a backdrop to the seating area.\n- The tables with chairs are placed in front of the wooden paneling, indicating a designated area for gatherings or meetings.\n- The floor is covered with marble tiles, which extends throughout the space, connecting all objects.\n- The glass windows are located on one side of the room, allowing natural light to enter and illuminating the interior.\n- The staircase is positioned in the background, leading to an upper level, and is visible through the glass windows.\n- Light fixtures are mounted on the ceiling, providing artificial lighting to the area."
+  },
+  {
+    "node_id": 55,
+    "timestamp": 1571636147379869,
+    "position": [
+      -144.29414572477387,
+      293.9414406730364,
+      -9.513977317418915
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00055.jpg",
+    "caption": "### Objects Identified:\n1. Large metallic columns\n2. Wooden wall\n3. Glass wall\n4. Escalator\n5. Table with chairs\n6. Floor with marble tiles\n\n### Spatial Relationships:\n- The large metallic columns are positioned vertically, supporting the ceiling and are located towards the left side of the image.\n- The wooden wall is situated in the background, curving around the space and providing a backdrop to the area.\n- The glass wall is on the left, allowing natural light into the space and providing a view outside.\n- The escalator is located further back, leading upwards and positioned to the right of the wooden wall.\n- The table with chairs is placed in the foreground, near the center, indicating a space for gatherings or meetings.\n- The floor, made of marble tiles, extends throughout the area, connecting all objects and providing a uniform surface."
+  },
+  {
+    "node_id": 56,
+    "timestamp": 1571636149779869,
+    "position": [
+      -142.12278143614574,
+      294.4265316949864,
+      -9.5191951901245
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00056.jpg",
+    "caption": "### Objects Seen:\n1. Large pillars\n2. Curved wooden wall\n3. Escalator\n4. Glass wall\n5. Marble floor\n6. Tables with black tablecloth\n7. Screens mounted on the wall\n\n### Spatial Relationships:\n- The large pillars are positioned vertically and are spaced throughout the area, providing structural support.\n- The curved wooden wall is located to the right of the image, adjacent to the pillars.\n- The escalator is situated towards the back left, leading upwards, and is aligned with the glass wall.\n- The glass wall runs parallel to the escalator, allowing visibility into the area beyond.\n- The marble floor extends throughout the space, creating a reflective surface beneath all objects.\n- The tables with black tablecloths are placed in front of the wooden wall, indicating a setup for an event or gathering.\n- The screens are mounted on the wooden wall, positioned above the tables, likely for displaying information or presentations."
+  },
+  {
+    "node_id": 57,
+    "timestamp": 1571636152179869,
+    "position": [
+      -139.96532049335534,
+      294.9632082028155,
+      -9.528099014719297
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00057.jpg",
+    "caption": "### Objects Identified:\n1. Escalator\n2. Table with chairs\n3. Pillars\n4. Glass wall\n5. Floor with marble pattern\n6. Signs hanging from the ceiling\n\n### Spatial Relationships:\n- The **escalator** is positioned in the background, leading upwards.\n- The **table with chairs** is located to the right of the escalator, suggesting it is set up for an event or gathering.\n- **Pillars** are distributed throughout the space, providing structural support and separating different areas.\n- The **glass wall** is in the background, allowing natural light to enter the space and providing a view outside.\n- The **floor** features a marble pattern that extends throughout the area, creating a cohesive surface.\n- **Signs** are hanging from the ceiling above the table and entrance, indicating directions or information related to the space."
+  },
+  {
+    "node_id": 58,
+    "timestamp": 1571636154579869,
+    "position": [
+      -137.82893234632442,
+      295.56134034828636,
+      -9.531272192015152
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00058.jpg",
+    "caption": "### Objects Identified:\n1. Large glass windows\n2. Escalator\n3. Pillars\n4. Wooden wall panels\n5. Table with chairs\n6. Signage (indicating \"Grand Ballroom\")\n7. Marble flooring\n\n### Spatial Relationships:\n- The large glass windows are positioned on the left side of the image, allowing natural light into the space.\n- The escalator is located towards the back right, leading to an upper level.\n- Pillars are distributed throughout the area, providing structural support and are positioned in front of the wooden wall panels.\n- The table with chairs is situated in front of the wooden wall panels, indicating a space for gatherings or events.\n- Signage indicating \"Grand Ballroom\" is mounted on the wall near the table, suggesting proximity to the event space.\n- The marble flooring extends across the entire area, creating a cohesive surface beneath all the objects."
+  },
+  {
+    "node_id": 59,
+    "timestamp": 1571636156979869,
+    "position": [
+      -135.82502901636755,
+      296.54693526099305,
+      -9.531970305170224
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00059.jpg",
+    "caption": "### Objects Identified:\n1. Escalator\n2. Large glass windows\n3. Pillars\n4. Curved wooden wall\n5. Tables with black tablecloths\n6. Marble floor\n\n### Spatial Relationships:\n- The escalator is positioned to the right side of the image, leading upwards.\n- Large glass windows are located on the left side, providing natural light to the space.\n- Pillars are scattered throughout the area, supporting the ceiling and creating a structural framework.\n- The curved wooden wall is situated towards the back right, adjacent to the escalator.\n- Tables with black tablecloths are arranged in a line along the floor, likely for an event, positioned in front of the wooden wall.\n- The marble floor extends across the entire area, reflecting light and connecting all the objects visually."
+  },
+  {
+    "node_id": 60,
+    "timestamp": 1571636159379869,
+    "position": [
+      -133.86229746659856,
+      297.58437230093693,
+      -9.526781989256413
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00060.jpg",
+    "caption": "### Objects Identified:\n1. Escalator\n2. Large glass windows\n3. Pillars\n4. Marble floor\n5. Tables with chairs\n6. Wall with wooden paneling\n7. Signage\n8. Stairs\n\n### Spatial Relationships:\n- The escalator is positioned towards the back right of the image, leading up to a higher level.\n- Large glass windows are located on the left side, allowing natural light into the space.\n- Pillars are distributed throughout the area, supporting the ceiling and creating a structural framework.\n- The marble floor extends across the entire area, reflecting light and enhancing the spacious feel.\n- Tables with chairs are arranged along the right side, indicating a setup for an event or meeting.\n- The wall with wooden paneling is adjacent to the tables, providing a contrasting texture to the glass and marble.\n- Signage is mounted on the wall near the tables, likely indicating directions or information.\n- Stairs are located near the escalator, providing an alternative route to the upper level."
+  },
+  {
+    "node_id": 61,
+    "timestamp": 1571636161779869,
+    "position": [
+      -131.92109127596723,
+      298.66877418647243,
+      -9.522830616180904
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00061.jpg",
+    "caption": "### Objects Seen:\n1. Escalator\n2. Large glass windows\n3. Marble floor\n4. Pillars\n5. Curved wall\n6. Reception desk with chairs\n7. Empty space\n\n### Spatial Relationships:\n- The escalator is positioned towards the right side of the image, leading upwards.\n- Large glass windows are located on the left side, allowing natural light into the space.\n- The marble floor extends throughout the area, creating a reflective surface.\n- Pillars are strategically placed, supporting the ceiling and dividing the space.\n- The curved wall is adjacent to the reception desk, which is situated further back in the image.\n- The reception desk is in front of the curved wall and has chairs arranged behind it, indicating a waiting area.\n- There is an empty space in the foreground, enhancing the openness of the area."
+  },
+  {
+    "node_id": 62,
+    "timestamp": 1571636164179869,
+    "position": [
+      -130.13520688924345,
+      299.954128017579,
+      -9.519876040030253
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00062.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Escalator\n3. Pillars\n4. Stairs\n5. Floor with a reflective surface\n6. Person walking\n7. Sign indicating \"North Gate\"\n\n### Spatial Relationships:\n- The **large glass windows** are positioned at the front of the space, allowing natural light to enter.\n- The **escalator** is located to the right side of the image, leading upwards.\n- **Pillars** are scattered throughout the area, providing structural support and are positioned in the middle of the space.\n- The **stairs** are situated in front of the glass windows, leading up to a higher level.\n- The **reflective floor** covers the entire area, enhancing the brightness and visibility of the objects.\n- A **person walking** is seen moving towards the left side of the image, indicating movement within the space.\n- The **sign indicating \"North Gate\"** is located near the glass windows, providing directional information to visitors."
+  },
+  {
+    "node_id": 63,
+    "timestamp": 1571636166579869,
+    "position": [
+      -128.85888361680497,
+      301.76902555800075,
+      -9.516182592836701
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00063.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Escalator\n3. Pillars\n4. Steps\n5. Floor with a reflective surface\n6. Signage (North Gate)\n7. Person (silhouette)\n\n### Spatial Relationships:\n- The large glass windows are positioned at the back of the space, allowing natural light to enter.\n- The escalator is located to the right side of the image, leading upwards.\n- Pillars are distributed throughout the area, providing structural support and are positioned near the escalator and steps.\n- The steps are in the foreground, leading up to the area where the escalator is located.\n- The reflective floor spans across the entire area, enhancing the brightness and visibility of the objects.\n- The signage indicating \"North Gate\" is mounted on the glass wall, visible in the background.\n- A person is seen walking in the space, positioned towards the left side of the image, indicating movement towards the entrance or escalator."
+  },
+  {
+    "node_id": 64,
+    "timestamp": 1571636168979869,
+    "position": [
+      -128.11731608381865,
+      303.84566315830773,
+      -9.462975843721159
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00064.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Steps leading up to the entrance\n3. A person walking\n4. Marble flooring\n5. Pillars\n6. Greenery visible outside\n\n### Spatial Relationships:\n- The **large glass windows** are positioned at the front of the space, allowing light to enter and providing a view of the outside.\n- The **steps** are located directly in front of the glass windows, leading up to the entrance.\n- The **person** is seen walking on the steps, indicating they are moving towards the entrance.\n- The **marble flooring** covers the entire area, extending from the steps towards the back of the space.\n- **Pillars** are present within the interior, supporting the structure and positioned at intervals throughout the space.\n- The **greenery** is visible outside the glass windows, indicating an outdoor area adjacent to the building."
+  },
+  {
+    "node_id": 65,
+    "timestamp": 1571636171379869,
+    "position": [
+      -128.71337534563165,
+      305.8459478282484,
+      -9.411408023606935
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00065.jpg",
+    "caption": "### Objects Observed:\n1. Glass walls\n2. Metal columns\n3. Steps\n4. Marble floor\n5. People (various individuals)\n6. Signage (North Gate)\n7. Trees (visible through the glass)\n\n### Spatial Relationships:\n- The **glass walls** form the outer boundary of the space, allowing visibility to the outside.\n- **Metal columns** are positioned within the space, supporting the roof and separating the interior from the exterior.\n- The **steps** lead up to a higher platform, situated in front of the glass walls, providing access to the entrance.\n- The **marble floor** covers the entire area, extending beneath the steps and reflecting the light from the glass walls.\n- **People** are scattered throughout the space, some ascending the steps while others are standing or moving on the marble floor.\n- The **signage** indicating \"North Gate\" is mounted on the wall above the steps, directing people towards the entrance.\n- **Trees** are visible through the glass walls, positioned outside the building, contributing to the view from within."
+  },
+  {
+    "node_id": 66,
+    "timestamp": 1571636173779869,
+    "position": [
+      -130.40504715343212,
+      307.29254215909174,
+      -9.406841307595723
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00066.jpg",
+    "caption": "### Objects Seen:\n1. Glass walls\n2. Metal columns\n3. Steps\n4. Floor (marble)\n5. People (including a child)\n6. Entrance sign (indicating \"North Gate\")\n7. Trees (visible through the glass)\n\n### Spatial Relationships:\n- The glass walls enclose the space, providing a view of the outside, including trees.\n- The metal columns are positioned within the interior, supporting the structure above.\n- The steps lead up to the entrance, creating a transition from the lower floor to the area where the people are standing.\n- The marble floor is beneath the steps and people, reflecting light and contributing to the overall aesthetic.\n- The child is positioned on the steps, indicating movement towards the entrance where the other people are gathered.\n- The entrance sign is located above the steps, indicating the direction towards the exit or entry point."
+  },
+  {
+    "node_id": 67,
+    "timestamp": 1571636176179869,
+    "position": [
+      -132.28980222773788,
+      308.4753910421788,
+      -9.402806753395845
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00067.jpg",
+    "caption": "### Objects Observed:\n1. Glass walls\n2. Metal columns\n3. Steps (staircase)\n4. Marble floor\n5. Trees (visible through the glass)\n6. People (two individuals)\n\n### Spatial Relationships:\n- The glass walls are positioned prominently in the background, allowing visibility of the outside environment, including trees.\n- Metal columns are located towards the left side of the image, supporting the structure.\n- The steps are situated in the foreground, leading up to a higher level, creating a transition from the marble floor to the upper area.\n- The marble floor extends across the bottom of the image, providing a smooth surface beneath the steps and columns.\n- The two individuals are positioned on the steps, with one person standing higher up and the other lower down, indicating a vertical relationship between them."
+  },
+  {
+    "node_id": 68,
+    "timestamp": 1571636178579869,
+    "position": [
+      -134.4863832110949,
+      308.8376843525513,
+      -9.394430434236106
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00068.jpg",
+    "caption": "### Objects Observed:\n1. Glass wall\n2. Metal columns\n3. Escalator\n4. Marble floor\n5. Steps\n6. Potted plants\n7. People (two individuals)\n8. Signage (indicating floors)\n\n### Spatial Relationships:\n- The **glass wall** is positioned prominently on the right side, allowing natural light to enter the space.\n- **Metal columns** are located near the center, supporting the structure and providing a visual anchor.\n- The **escalator** is situated to the left, leading upwards, and is adjacent to the glass wall.\n- The **marble floor** extends throughout the area, providing a smooth surface beneath the escalator and steps.\n- **Steps** are located in front of the glass wall, leading to a lower area, creating a transition between different levels.\n- **Potted plants** are placed near the glass wall, adding greenery to the space.\n- **People** are positioned in various areas, with one near the escalator and another closer to the glass wall.\n- **Signage** is attached to the metal column, indicating the different floors and providing directional information."
+  },
+  {
+    "node_id": 69,
+    "timestamp": 1571636180979869,
+    "position": [
+      -136.6478032038193,
+      308.44340897708605,
+      -9.400988171647548
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00069.jpg",
+    "caption": "### Objects Seen:\n1. Escalator\n2. Column (with signage)\n3. Glass wall\n4. Floor (marble)\n5. Signage (indicating floors)\n6. Entrance doors\n\n### Spatial Relationships:\n- The escalator is positioned to the left side of the image, leading upward.\n- The column is located centrally, providing support and displaying floor signage.\n- The glass wall is on the right side, allowing natural light into the space and providing a view outside.\n- The marble floor extends throughout the area, connecting all objects.\n- The entrance doors are situated behind the column, leading to another area of the building."
+  },
+  {
+    "node_id": 70,
+    "timestamp": 1571636183379869,
+    "position": [
+      -138.49971348491866,
+      307.23873675460516,
+      -9.40694402562331
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00070.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Signage (indicating floors)\n3. Wall with a green texture\n4. Wall with a wooden texture\n5. Glass panels\n6. Floor (marble)\n7. Person (in the distance)\n\n### Spatial Relationships:\n- The escalator is positioned centrally in the image, leading upward.\n- The signage is located to the right of the escalator, providing information about the floors.\n- The green textured wall is on the left side of the escalator, while the wooden textured wall is behind it.\n- The glass panels are part of the structure above the escalator, creating an open space.\n- The marble floor extends throughout the area, reflecting the light and objects above.\n- A person is standing in the background, further back from the escalator and signage."
+  },
+  {
+    "node_id": 71,
+    "timestamp": 1571636185779869,
+    "position": [
+      -140.14209703708337,
+      305.76419269027963,
+      -9.412669852674844
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00071.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Glass wall\n3. Pillars\n4. Floor tiles (marble)\n5. Signage\n6. Vending machines\n7. People (two visible)\n8. Green wall section\n\n### Spatial Relationships:\n- The escalator is positioned on the left side of the image, leading upwards.\n- The glass wall is located to the right of the escalator, allowing natural light into the space.\n- Pillars are situated near the escalator and the glass wall, providing structural support.\n- The floor tiles are laid out across the entire area, creating a reflective surface.\n- Signage is placed near the base of the escalator, indicating directions or information.\n- Vending machines are positioned further back on the right side, near the glass wall.\n- Two people are visible in the background, standing near the entrance area, indicating movement through the space.\n- The green wall section is adjacent to the escalator, adding a touch of color to the environment."
+  },
+  {
+    "node_id": 72,
+    "timestamp": 1571636188179869,
+    "position": [
+      -142.26544119669234,
+      305.100178794491,
+      -9.40032730261292
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00072.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Sign with \"North\" written on it\n3. Glass wall\n4. Pillars\n5. Doors\n6. Vending machines\n7. Person (in black clothing)\n8. Marble floor\n9. Plants (visible through the glass wall)\n\n### Spatial Relationships:\n- The escalator is positioned on the left side, leading upward towards the \"North\" sign.\n- The \"North\" sign is attached to the escalator, indicating direction.\n- The glass wall is located to the right, allowing visibility to the outside and showcasing plants.\n- Pillars are present in the background, supporting the structure.\n- The doors are situated directly ahead, leading into another area.\n- Vending machines are located to the left of the doors, near the base of the escalator.\n- A person in black clothing is standing near the glass wall, closer to the right side of the image.\n- The marble floor extends throughout the area, providing a reflective surface beneath all objects."
+  },
+  {
+    "node_id": 73,
+    "timestamp": 1571636190579869,
+    "position": [
+      -144.34514172211908,
+      304.2948457369163,
+      -9.411155220621268
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00073.jpg",
+    "caption": "### Objects Identified:\n1. Signage labeled \"North\"\n2. Glass railing\n3. Large glass wall\n4. Elevator doors\n5. Two people (one walking, one standing)\n6. Red vending machines\n7. Black counter or table\n8. Marble floor with black stripes\n9. Green plants\n\n### Spatial Relationships:\n- The \"North\" signage is positioned above the glass railing, indicating direction.\n- The glass railing is adjacent to the large glass wall, which allows natural light into the space.\n- The elevator doors are located directly in front of the entrance, leading into the building.\n- The two people are situated near the elevator doors, with one walking towards them and the other standing nearby.\n- The red vending machines are placed to the left of the elevator doors, while the black counter or table is positioned further back, near the glass wall.\n- The marble floor spans the entire area, with distinct black stripes running across it, creating a pattern that leads towards the entrance. \n- Green plants are located near the glass wall, adding a touch of nature to the modern interior."
+  },
+  {
+    "node_id": 74,
+    "timestamp": 1571636192979869,
+    "position": [
+      -146.38714413382579,
+      303.419615344383,
+      -9.405512579006503
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00074.jpg",
+    "caption": "### Objects Identified:\n1. Sign with \"North\" written on it\n2. Glass wall\n3. Pillars\n4. Entrance doors\n5. Two individuals\n6. Vending machines\n7. Marble floor\n\n### Spatial Relationships:\n- The \"North\" sign is positioned above the entrance area, indicating direction.\n- The glass wall is located to the right of the entrance, allowing natural light into the space.\n- The pillars are situated near the entrance, providing structural support.\n- The entrance doors are directly in front of the viewer, leading into the building.\n- The two individuals are standing in the vicinity of the entrance, one closer to the glass wall and the other near the vending machines.\n- The vending machines are positioned to the left of the entrance doors, on the same level as the marble floor."
+  },
+  {
+    "node_id": 75,
+    "timestamp": 1571636195379869,
+    "position": [
+      -148.3887222206922,
+      302.47923977028483,
+      -9.406499312252324
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00075.jpg",
+    "caption": "### Objects Observed:\n1. Large glass wall\n2. Metal columns\n3. Entrance doors\n4. Floor with marble pattern\n5. Reception desk\n6. People (two individuals)\n\n### Spatial Relationships:\n- The large glass wall is positioned to the right, allowing natural light into the space.\n- Metal columns are located throughout the area, providing structural support and are spaced evenly along the entrance.\n- The entrance doors are centrally located, leading into the building.\n- The marble-patterned floor extends across the entire area, creating a uniform surface.\n- The reception desk is situated to the left of the entrance, near the glass wall.\n- One individual is walking towards the entrance, while another is standing near the reception desk, indicating movement and interaction within the space."
+  },
+  {
+    "node_id": 76,
+    "timestamp": 1571636197779869,
+    "position": [
+      -150.1880874435402,
+      301.2114058506396,
+      -9.423438472475775
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00076.jpg",
+    "caption": "### Objects Identified:\n1. Silver columns\n2. Glass doors\n3. Marble floor\n4. Wooden wall panels\n5. Wall plaque\n6. Vending machine (red)\n\n### Spatial Relationships:\n- The silver columns are positioned vertically and are located near the entrance, supporting the overhead structure.\n- The glass doors are situated directly in front of the columns, providing access to the interior space.\n- The marble floor extends throughout the area, creating a smooth surface beneath the columns and doors.\n- The wooden wall panels are adjacent to the columns, forming part of the surrounding walls.\n- The wall plaque is mounted on one of the wooden panels, positioned at eye level.\n- The vending machine is located to the right of the entrance, slightly set back from the main flow of foot traffic."
+  },
+  {
+    "node_id": 77,
+    "timestamp": 1571636200179869,
+    "position": [
+      -151.8219551161957,
+      299.69831602783745,
+      -9.420658832240873
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00077.jpg",
+    "caption": "### Objects Seen:\n1. Silver column\n2. Glass entrance doors\n3. Wall with wooden paneling\n4. Wall with a plaque\n5. Vending machine\n\n### Spatial Relationships:\n- The silver column is positioned towards the left side of the image, standing upright on the floor.\n- The glass entrance doors are located directly in front of the column, serving as the main entryway.\n- The wooden paneling wall is to the left of the entrance doors, creating a backdrop for the entrance.\n- The wall with the plaque is situated to the right of the entrance doors, providing additional context to the entrance area.\n- The vending machine is placed to the right of the entrance doors, slightly further back, indicating it is accessible but not directly in the main entry path."
+  },
+  {
+    "node_id": 78,
+    "timestamp": 1571636210579869,
+    "position": [
+      -149.2786467166467,
+      300.17475638433854,
+      -9.41971591495105
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00078.jpg",
+    "caption": "### Objects Observed:\n1. Large glass windows\n2. Metal columns\n3. Escalator\n4. Marble floor\n5. People (various individuals)\n6. Signage (indicating floor information)\n7. Steps or platforms\n8. Green wall or panel\n\n### Spatial Relationships:\n- The **large glass windows** are positioned along the left side of the image, allowing natural light to enter the space.\n- **Metal columns** are spaced throughout the area, providing structural support and creating a sense of depth.\n- The **escalator** is located towards the right side, leading to an upper level.\n- The **marble floor** extends across the entire area, reflecting light and enhancing the spacious feel.\n- **People** are scattered throughout the space, with some near the escalator and others walking along the glass windows.\n- The **signage** is positioned near the bottom right, providing directional information to visitors.\n- **Steps or platforms** are situated in the center, leading up to the glass windows, creating a tiered effect.\n- The **green wall or panel** is located on the right side, adding a contrasting color to the otherwise neutral palette."
+  },
+  {
+    "node_id": 79,
+    "timestamp": 1571636212979869,
+    "position": [
+      -147.47053963190385,
+      301.4094427620514,
+      -9.422168365109997
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00079.jpg",
+    "caption": "### Objects Identified:\n1. Large glass windows\n2. Metal columns\n3. Escalator\n4. Signage (indicating floor levels)\n5. People (standing and walking)\n6. Marble flooring\n7. Wooden paneling on walls\n\n### Spatial Relationships:\n- The large glass windows are positioned along the walls, allowing natural light to enter the space.\n- Metal columns are strategically placed throughout the area, providing structural support and dividing the space.\n- The escalator is located towards the right side of the image, leading to an upper level.\n- The signage is positioned near the escalator, providing directional information to visitors.\n- People are scattered throughout the space, with some standing near the escalator and others walking across the marble flooring.\n- The wooden paneling is situated on the walls adjacent to the escalator, enhancing the aesthetic of the interior."
+  },
+  {
+    "node_id": 80,
+    "timestamp": 1571636215379869,
+    "position": [
+      -145.35840369980664,
+      302.1217868931779,
+      -9.426279800452717
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00080.jpg",
+    "caption": "### Objects Identified:\n1. Large glass windows\n2. Ceiling with lights\n3. Pillars (metal)\n4. Escalator\n5. Signage (indicating floor levels)\n6. People (walking)\n7. Marble flooring\n8. Steps (leading to a different level)\n\n### Spatial Relationships:\n- The large glass windows are positioned along the left side, allowing natural light into the space.\n- The ceiling with lights is directly above the area, providing illumination.\n- Metal pillars are spaced throughout the area, supporting the ceiling and creating structural divisions.\n- The escalator is located towards the right side, leading to upper levels.\n- The signage is placed near the escalator, providing directional information to visitors.\n- People are scattered throughout the space, some walking towards the escalator and others near the steps.\n- The marble flooring extends across the entire area, providing a smooth surface for movement.\n- The steps are located in the center, leading up to a higher level, positioned between the escalator and the main walking area."
+  },
+  {
+    "node_id": 81,
+    "timestamp": 1571636217779869,
+    "position": [
+      -143.30443283867535,
+      302.90571093763924,
+      -9.415174712666616
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00081.jpg",
+    "caption": "### Objects Observed:\n1. Three people\n2. A set of stairs\n3. A glass wall\n4. A large open space\n5. A curved wall\n6. An escalator\n7. Tables with chairs (in the background)\n\n### Spatial Relationships:\n- The three people are positioned in the foreground, with one person standing to the left, one in the center, and one to the right.\n- The set of stairs is located behind the people, leading up to a higher level.\n- The glass wall is on the left side of the image, allowing natural light into the space.\n- The large open space is in front of the people, providing a clear area for movement.\n- The curved wall is situated on the right side of the image, enclosing the space.\n- The escalator is positioned further back, adjacent to the curved wall, leading to an upper level.\n- The tables with chairs are in the background, indicating a seating area that is separate from the main open space."
+  },
+  {
+    "node_id": 82,
+    "timestamp": 1571636220179869,
+    "position": [
+      -141.24355776030262,
+      303.74601990038843,
+      -9.40867668378013
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00082.jpg",
+    "caption": "### Objects Observed:\n1. People (multiple individuals)\n2. Escalators\n3. Large glass windows\n4. Marble flooring\n5. Pillars\n6. Walls (wooden and green)\n7. Reception area (with a table)\n\n### Spatial Relationships:\n- The people are scattered throughout the space, with some walking on the marble flooring.\n- The escalators are positioned in the background, leading to an upper level.\n- Large glass windows are located on one side, allowing natural light into the area.\n- Pillars are present, supporting the ceiling and dividing the space.\n- The wooden walls are adjacent to the escalators and reception area, creating a contrast with the glass and marble.\n- The reception area is situated to the right, near the wooden walls, and is separated from the main walking area by a slight distance."
+  },
+  {
+    "node_id": 83,
+    "timestamp": 1571636222579869,
+    "position": [
+      -139.17171007577303,
+      304.59116844140846,
+      -9.44667389447112
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00083.jpg",
+    "caption": "### Objects Identified:\n1. A person (blurred face)\n2. A child\n3. A person in a black shirt (Adidas logo)\n4. A person in a white shirt\n5. A person in black pants\n6. Escalators\n7. Glass walls\n8. Marble flooring\n9. Pillars\n10. Curved wall (green)\n\n### Spatial Relationships:\n- The person with the blurred face is positioned to the left, slightly in the foreground.\n- The child is near the person in the black shirt, who is walking slightly ahead of them.\n- The person in the white shirt is walking towards the right, closer to the center of the image.\n- The person in black pants is further back, near the escalators.\n- The escalators are located in the background, leading up to a higher level.\n- The glass walls are on the left side, providing a view outside.\n- The marble flooring extends throughout the area, with visible patterns.\n- The pillars are spaced throughout the area, supporting the ceiling.\n- The curved green wall is on the right side, adding architectural interest to the space."
+  },
+  {
+    "node_id": 84,
+    "timestamp": 1571636224979869,
+    "position": [
+      -137.17517353050053,
+      305.5842819083078,
+      -9.422437174416947
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00084.jpg",
+    "caption": "### Objects Observed:\n1. People (four individuals)\n2. Stairs (curved steps)\n3. Escalator (visible in the background)\n4. Glass walls (large windows)\n5. Pillars (supporting structures)\n6. Floor (marble surface)\n7. Wall (textured green and wooden)\n\n### Spatial Relationships:\n- The **people** are positioned in the foreground, standing on the **floor** near the **curved stairs**.\n- The **stairs** lead up to the **escalator**, which is located in the background.\n- The **glass walls** are adjacent to the **stairs**, allowing natural light into the space.\n- **Pillars** are placed throughout the area, providing structural support and separating different sections of the space.\n- The **textured wall** is situated to the right of the **escalator**, adding visual interest to the environment."
+  },
+  {
+    "node_id": 85,
+    "timestamp": 1571636227379869,
+    "position": [
+      -135.0084849056393,
+      305.88134582450954,
+      -9.432122929000963
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00085.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Large green column\n3. Wooden wall\n4. Glass windows\n5. Table with chairs\n6. People (two individuals walking, one bending down)\n7. Marble floor\n\n### Spatial Relationships:\n- The escalator is positioned towards the back of the space, leading to an upper level.\n- The large green column is located to the left side of the image, adjacent to the wooden wall.\n- The wooden wall is on the right side, creating a boundary for the space.\n- The glass windows are situated along the left side, allowing natural light into the area.\n- The table with chairs is placed in the foreground, indicating a seating area.\n- The two individuals are walking in the middle ground, with one bending down closer to the floor, while the other is moving towards the left side of the image."
+  },
+  {
+    "node_id": 86,
+    "timestamp": 1571636229779869,
+    "position": [
+      -132.7989482110614,
+      306.0653894614123,
+      -9.427374301819379
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00086.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Glass wall\n3. Pillars\n4. Reception desk\n5. Floor with marble tiles\n6. Person walking with bags\n7. Curved wall\n8. Chairs (near the reception desk)\n\n### Spatial Relationships:\n- The escalator is positioned towards the center of the image, leading upwards.\n- The glass wall is located to the left, allowing natural light to enter the space.\n- Pillars are evenly spaced throughout the area, providing structural support.\n- The reception desk is situated to the right, near the curved wall.\n- The floor is covered with marble tiles, extending throughout the space.\n- A person is walking towards the escalator, moving from the left side of the image.\n- The curved wall is adjacent to the reception desk, creating a smooth transition in the architecture.\n- Chairs are placed near the reception desk, indicating a waiting area."
+  },
+  {
+    "node_id": 87,
+    "timestamp": 1571636232179869,
+    "position": [
+      -130.58228147372915,
+      306.29442377946856,
+      -9.451890744295019
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00087.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Glass walls\n3. Pillars\n4. Marble floor\n5. Wooden wall\n6. People (an adult and a child)\n7. Signage\n\n### Spatial Relationships:\n- The escalator is positioned centrally in the image, leading upwards.\n- Glass walls are located to the left and right, allowing natural light into the space.\n- Pillars are placed throughout the area, providing structural support.\n- The marble floor extends across the entire space, reflecting light and creating a polished appearance.\n- The wooden wall is situated to the right of the escalator, adding texture to the environment.\n- The adult and child are walking towards the escalator, indicating movement towards the upper level.\n- Signage is positioned near the wooden wall, likely providing directions or information about the space."
+  },
+  {
+    "node_id": 88,
+    "timestamp": 1571636234579869,
+    "position": [
+      -128.37042179521987,
+      306.5742010543371,
+      -9.444543654287829
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00088.jpg",
+    "caption": "### Objects Observed:\n1. Escalators\n2. Large glass windows\n3. Pillars\n4. Curved wall with a green texture\n5. Wooden wall\n6. Marble floor\n7. People (two visible)\n\n### Spatial Relationships:\n- The escalators are positioned centrally in the image, leading upwards.\n- Large glass windows are located to the left, allowing natural light into the space.\n- Pillars are situated throughout the area, providing structural support.\n- The curved green wall is on the right side, adjacent to the wooden wall.\n- The marble floor extends across the entire area, reflecting the light from the windows and the escalators.\n- People are seen walking on the marble floor, with one near the escalators and another further back."
+  },
+  {
+    "node_id": 89,
+    "timestamp": 1571636236979869,
+    "position": [
+      -126.16909926254618,
+      306.8233688025108,
+      -9.45953242172963
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00089.jpg",
+    "caption": "### Objects Seen:\n1. Escalator\n2. Large green wall\n3. Wooden wall\n4. Pillars\n5. Floor with marble tiles\n6. Glass railing\n7. Signage\n8. Water dispenser\n\n### Spatial Relationships:\n- The escalator is positioned centrally in the image, leading upwards.\n- The large green wall is located to the right of the escalator, creating a contrast with the wooden wall adjacent to it.\n- Pillars are present throughout the space, providing structural support and are positioned near the escalator and walls.\n- The floor is made of marble tiles, extending across the entire area, with a reflective surface that enhances the spacious feel.\n- The glass railing is situated above the escalator, indicating a second level.\n- Signage is placed near the escalator, likely providing directional information.\n- The water dispenser is positioned against the wooden wall, further to the right of the green wall."
+  },
+  {
+    "node_id": 90,
+    "timestamp": 1571636239379869,
+    "position": [
+      -123.94169294266706,
+      306.8214412811138,
+      -9.464084342113887
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00090.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Curved green wall\n3. Brown wooden wall\n4. White appliance (possibly an air conditioner)\n5. Marble floor\n6. Glass ceiling\n\n### Spatial Relationships:\n- The escalator is positioned to the left side of the image, leading upwards.\n- The curved green wall is located to the right of the escalator, adjacent to the brown wooden wall.\n- The brown wooden wall is further back in the space, providing a backdrop to the green wall.\n- The white appliance is placed near the base of the curved green wall, close to the marble floor.\n- The marble floor extends throughout the area, providing a reflective surface beneath all objects.\n- The glass ceiling is above the entire scene, allowing natural light to illuminate the space."
+  },
+  {
+    "node_id": 91,
+    "timestamp": 1571636241779869,
+    "position": [
+      -121.71232577754039,
+      306.7951991095018,
+      -9.487081737980674
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00091.jpg",
+    "caption": "### Objects Observed:\n1. Escalator\n2. Column (metal)\n3. Wall (green and brown)\n4. Air conditioning unit (white)\n5. Floor (marble)\n\n### Spatial Relationships:\n- The escalator is positioned on the left side of the image, leading upwards.\n- The metal column is located centrally, supporting the ceiling above.\n- The green and brown wall is to the right of the column, curving around the space.\n- The air conditioning unit is placed against the wall, near the corner of the image.\n- The marble floor extends throughout the area, reflecting the objects above it."
+  },
+  {
+    "node_id": 92,
+    "timestamp": 1571636244179869,
+    "position": [
+      -119.4849330364333,
+      306.68660793032336,
+      -9.498461341785879
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00092.jpg",
+    "caption": "### Objects Identified:\n1. Escalator\n2. Silver column\n3. Green wall\n4. Brown wall\n5. White appliance (possibly a vending machine or air conditioner)\n6. Marble floor with black stripes\n7. Signage\n\n### Spatial Relationships:\n- The escalator is positioned to the left of the silver column, leading upward.\n- The silver column stands prominently in the foreground, adjacent to the green wall on its right.\n- The green wall is curved and located next to the brown wall, which is on the right side of the green wall.\n- The white appliance is situated near the brown wall, towards the right side of the image.\n- The marble floor extends across the scene, with black stripes running through it, providing a contrasting pattern beneath the objects."
+  },
+  {
+    "node_id": 93,
+    "timestamp": 1571636246579869,
+    "position": [
+      -117.26085766325372,
+      306.6018638056637,
+      -9.506058093351191
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00093.jpg",
+    "caption": "### Objects Identified:\n1. Silver column\n2. Green textured wall\n3. Brown wall\n4. Marble floor\n5. Escalator (partially visible)\n6. Signage (indicating floor levels)\n\n### Spatial Relationships:\n- The silver column is positioned towards the left side of the image, standing upright on the marble floor.\n- The green textured wall is located to the right of the silver column, curving away from it.\n- The brown wall is adjacent to the green wall, creating a transition between the two surfaces.\n- The marble floor extends across the entire area, providing a base for all objects.\n- The escalator is visible in the background, leading upwards, positioned behind the silver column and to the left of the green wall.\n- The signage is mounted on the wall, visible above the marble floor, indicating the floor levels in the space."
+  },
+  {
+    "node_id": 94,
+    "timestamp": 1571636248979869,
+    "position": [
+      -115.03973145049723,
+      306.5533876165996,
+      -9.51153680924748
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00094.jpg",
+    "caption": "### Objects Observed:\n1. Curved green wall\n2. Wooden wall\n3. Marble floor\n4. Escalator\n5. Pillars\n6. Signage (hanging)\n7. Glass doors\n8. People (in the background)\n\n### Spatial Relationships:\n- The **curved green wall** is positioned to the right and slightly in the foreground, creating a prominent visual element.\n- The **wooden wall** is located directly behind the green wall, providing a contrasting texture and color.\n- The **marble floor** extends across the entire scene, serving as the base on which the other objects rest.\n- The **escalator** is situated to the left, leading to an upper level, and is aligned parallel to the walls.\n- **Pillars** are present in the background, supporting the structure and positioned between the escalator and the green wall.\n- The **signage** is hanging from the wooden wall, indicating information about the space.\n- **Glass doors** are visible in the background, providing access to the area and positioned near the wooden wall.\n- **People** can be seen in the background, indicating movement and activity within the space, primarily near the glass doors."
+  },
+  {
+    "node_id": 95,
+    "timestamp": 1571636251379869,
+    "position": [
+      -112.80242119950023,
+      306.69192231894453,
+      -9.523167246287068
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00095.jpg",
+    "caption": "### Objects Identified:\n1. Glass wall\n2. Wooden wall\n3. Metal column\n4. Marble floor\n5. Stairs\n6. Signage\n7. People (two individuals)\n\n### Spatial Relationships:\n- The glass wall is positioned to the right of the wooden wall.\n- The metal column is located near the center of the space, supporting the upper structure.\n- The stairs are situated on the left side, leading to an upper level.\n- The marble floor extends throughout the area, providing a surface beneath all objects.\n- The two individuals are walking towards the glass wall, positioned in the background of the scene."
+  },
+  {
+    "node_id": 96,
+    "timestamp": 1571636253779869,
+    "position": [
+      -110.62854703401261,
+      307.124292629495,
+      -9.540337054387678
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00096.jpg",
+    "caption": "### Objects Seen:\n1. Glass escalator\n2. Marble floor\n3. Wooden wall\n4. Green textured wall\n5. Metal columns\n6. Glass entrance doors\n7. Bookshelf or display unit\n8. People (two individuals)\n\n### Spatial Relationships:\n- The glass escalator is positioned above the marble floor, leading to an upper level.\n- The marble floor extends throughout the area, providing a base for all other objects.\n- The wooden wall is located to the right of the green textured wall, creating a contrast in materials.\n- Metal columns are vertically aligned, supporting the structure above and are situated near the entrance.\n- The glass entrance doors are directly in front of the escalator, allowing access to the building.\n- The bookshelf or display unit is positioned to the left of the entrance doors, suggesting it is part of the lobby area.\n- The two individuals are standing near the entrance doors, indicating they are entering or exiting the building."
+  },
+  {
+    "node_id": 97,
+    "timestamp": 1571636256179869,
+    "position": [
+      -108.57393410728807,
+      307.9568567454551,
+      -9.547514326285864
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00097.jpg",
+    "caption": "### Objects Observed:\n1. Glass railing\n2. Staircase\n3. Pillar\n4. Wooden wall\n5. Signboard\n6. Entrance doors\n7. Reception desk\n8. Trash can\n9. Floor tiles (marble)\n\n### Spatial Relationships:\n- The **glass railing** is positioned above the **staircase**, indicating a multi-level structure.\n- The **staircase** leads down to the main area where the **reception desk** and **trash can** are located.\n- The **pillar** stands prominently in the space, likely supporting the upper structure.\n- The **wooden wall** is adjacent to the **reception desk**, providing a backdrop.\n- The **signboard** hangs above the **wooden wall**, indicating directions or information.\n- The **entrance doors** are situated in the background, leading to the outside of the building.\n- The **floor tiles** cover the entire area, reflecting the light and contributing to the overall aesthetic of the space."
+  },
+  {
+    "node_id": 98,
+    "timestamp": 1571636258579869,
+    "position": [
+      -106.52353672793717,
+      308.82837301390475,
+      -9.544331889249808
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00098.jpg",
+    "caption": "### Objects Observed:\n1. Glass entrance doors\n2. Metal columns\n3. Wooden wall panels\n4. Signboard\n5. Reception desk\n6. Air conditioning unit\n7. Marble floor\n\n### Spatial Relationships:\n- The **glass entrance doors** are positioned centrally in the image, leading into the space.\n- **Metal columns** are located throughout the area, providing structural support, with one prominently visible in the foreground.\n- The **wooden wall panels** are adjacent to the entrance, creating a warm aesthetic on the right side of the image.\n- A **signboard** is mounted on the wall above the wooden panels, indicating directions or information.\n- The **reception desk** is situated to the left of the entrance, likely serving as a point of contact for visitors.\n- An **air conditioning unit** is placed against the wall near the entrance, contributing to the climate control of the space.\n- The **marble floor** extends throughout the area, reflecting the light and enhancing the spacious feel of the environment."
+  },
+  {
+    "node_id": 99,
+    "timestamp": 1571636260979869,
+    "position": [
+      -104.53036738844538,
+      309.8177951775364,
+      -9.537155495502969
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00099.jpg",
+    "caption": "### Objects Identified:\n1. Glass entrance doors\n2. Pillars (metal)\n3. Wooden wall\n4. Reception desk\n5. Signage (hanging)\n6. Trash bin\n7. Floor (marble)\n\n### Spatial Relationships:\n- The **glass entrance doors** are located at the center of the image, leading into the building.\n- **Pillars** are positioned on either side of the entrance, providing structural support.\n- The **wooden wall** is to the right of the entrance, creating a boundary for the space.\n- The **reception desk** is situated to the left of the entrance, indicating a welcoming area for visitors.\n- **Signage** is hanging above the entrance, providing directional information.\n- The **trash bin** is placed near the reception area, likely for convenience.\n- The **floor** is visible throughout the space, showcasing a marble finish that reflects light and enhances the aesthetic."
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "node_id": 0,
+    "timestamp": 1571636004579869,
+    "position": [
+      -153.92219863972716,
+      300.0031389894899,
+      -9.39332752364979
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00000.jpg"
+  },
+  {
+    "node_id": 1,
+    "timestamp": 1571636011379869,
+    "position": [
+      -152.47681686147604,
+      298.480924120739,
+      -9.41853201947468
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00001.jpg"
+  },
+  {
+    "node_id": 2,
+    "timestamp": 1571636014179869,
+    "position": [
+      -150.48155284396685,
+      299.1660016057985,
+      -9.433514727667278
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00002.jpg"
+  },
+  {
+    "node_id": 3,
+    "timestamp": 1571636016979869,
+    "position": [
+      -150.73162450273,
+      301.1823752936285,
+      -9.396439909026444
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00003.jpg"
+  },
+  {
+    "node_id": 4,
+    "timestamp": 1571636020179869,
+    "position": [
+      -152.93945029442196,
+      300.766019413659,
+      -9.407067215197916
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00004.jpg"
+  },
+  {
+    "node_id": 5,
+    "timestamp": 1571636022979869,
+    "position": [
+      -152.3491272966066,
+      298.7698141820391,
+      -9.426222379149085
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00005.jpg"
+  },
+  {
+    "node_id": 6,
+    "timestamp": 1571636025779869,
+    "position": [
+      -150.3180997665281,
+      299.3406633464593,
+      -9.429714587014763
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00006.jpg"
+  },
+  {
+    "node_id": 7,
+    "timestamp": 1571636028179869,
+    "position": [
+      -150.6227466310691,
+      301.38471588190697,
+      -9.382726288530755
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00007.jpg"
+  },
+  {
+    "node_id": 8,
+    "timestamp": 1571636030579869,
+    "position": [
+      -152.7218398944024,
+      301.5549798060442,
+      -9.394188438103848
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00008.jpg"
+  },
+  {
+    "node_id": 9,
+    "timestamp": 1571636032979869,
+    "position": [
+      -153.97722603176658,
+      299.7372350361474,
+      -9.411127943985031
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00009.jpg"
+  },
+  {
+    "node_id": 10,
+    "timestamp": 1571636035379869,
+    "position": [
+      -155.051177320922,
+      297.7996053980646,
+      -9.409387352055782
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00010.jpg"
+  },
+  {
+    "node_id": 11,
+    "timestamp": 1571636037779869,
+    "position": [
+      -156.88312949498356,
+      296.5603766929886,
+      -9.424726051689493
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00011.jpg"
+  },
+  {
+    "node_id": 12,
+    "timestamp": 1571636040179869,
+    "position": [
+      -158.9466404473253,
+      295.73345226160495,
+      -9.414431581845397
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00012.jpg"
+  },
+  {
+    "node_id": 13,
+    "timestamp": 1571636042979869,
+    "position": [
+      -160.60998355447927,
+      294.55319508336845,
+      -9.422310618857306
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00013.jpg"
+  },
+  {
+    "node_id": 14,
+    "timestamp": 1571636045379869,
+    "position": [
+      -161.18449206125118,
+      292.480125803009,
+      -9.436653820827956
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00014.jpg"
+  },
+  {
+    "node_id": 15,
+    "timestamp": 1571636047779869,
+    "position": [
+      -162.34096070048983,
+      290.6426806663043,
+      -9.444441383975484
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00015.jpg"
+  },
+  {
+    "node_id": 16,
+    "timestamp": 1571636050179869,
+    "position": [
+      -164.04458637664462,
+      289.34080038172056,
+      -9.459505028031554
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00016.jpg"
+  },
+  {
+    "node_id": 17,
+    "timestamp": 1571636052579869,
+    "position": [
+      -166.16626347256337,
+      288.72654111674245,
+      -9.503421636648577
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00017.jpg"
+  },
+  {
+    "node_id": 18,
+    "timestamp": 1571636054979869,
+    "position": [
+      -168.31369282419777,
+      289.1511666139397,
+      -9.445993608340652
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00018.jpg"
+  },
+  {
+    "node_id": 19,
+    "timestamp": 1571636057379869,
+    "position": [
+      -170.19011025124956,
+      290.28880435953505,
+      -9.433148446104054
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00019.jpg"
+  },
+  {
+    "node_id": 20,
+    "timestamp": 1571636059779869,
+    "position": [
+      -171.01604241310466,
+      292.3071792372071,
+      -9.35071907783127
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00020.jpg"
+  },
+  {
+    "node_id": 21,
+    "timestamp": 1571636062179869,
+    "position": [
+      -171.94181490249227,
+      294.37267955801144,
+      -9.365331062381037
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00021.jpg"
+  },
+  {
+    "node_id": 22,
+    "timestamp": 1571636064579869,
+    "position": [
+      -172.75253211930897,
+      296.3830155910509,
+      -9.345051706017388
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00022.jpg"
+  },
+  {
+    "node_id": 23,
+    "timestamp": 1571636066979869,
+    "position": [
+      -173.63623509809952,
+      298.36870404561313,
+      -9.27173372739199
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00023.jpg"
+  },
+  {
+    "node_id": 24,
+    "timestamp": 1571636069379869,
+    "position": [
+      -174.6606147524752,
+      300.3565182624267,
+      -9.14960942117557
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00024.jpg"
+  },
+  {
+    "node_id": 25,
+    "timestamp": 1571636071779869,
+    "position": [
+      -174.53346987379706,
+      302.21070912920504,
+      -9.240702815779986
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00025.jpg"
+  },
+  {
+    "node_id": 26,
+    "timestamp": 1571636074179869,
+    "position": [
+      -172.5319387700641,
+      302.3834745189845,
+      -9.266429891231008
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00026.jpg"
+  },
+  {
+    "node_id": 27,
+    "timestamp": 1571636076579869,
+    "position": [
+      -171.76839609800248,
+      300.47857070376153,
+      -9.30308938694597
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00027.jpg"
+  },
+  {
+    "node_id": 28,
+    "timestamp": 1571636078979869,
+    "position": [
+      -172.48844476280917,
+      298.3845498023221,
+      -9.312814118525361
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00028.jpg"
+  },
+  {
+    "node_id": 29,
+    "timestamp": 1571636081379869,
+    "position": [
+      -172.6810235794687,
+      296.19531627744755,
+      -9.343326470429636
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00029.jpg"
+  },
+  {
+    "node_id": 30,
+    "timestamp": 1571636083779869,
+    "position": [
+      -172.14821627248227,
+      294.05091857620954,
+      -9.365347787280124
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00030.jpg"
+  },
+  {
+    "node_id": 31,
+    "timestamp": 1571636086179869,
+    "position": [
+      -171.47559967868045,
+      291.92210489086074,
+      -9.394370552105
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00031.jpg"
+  },
+  {
+    "node_id": 32,
+    "timestamp": 1571636088579869,
+    "position": [
+      -170.5517942821105,
+      289.90584465931596,
+      -9.416807394696102
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00032.jpg"
+  },
+  {
+    "node_id": 33,
+    "timestamp": 1571636090979869,
+    "position": [
+      -169.51043100759233,
+      287.94219495325575,
+      -9.43816350144569
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00033.jpg"
+  },
+  {
+    "node_id": 34,
+    "timestamp": 1571636093379869,
+    "position": [
+      -168.44274420086117,
+      285.99129602674907,
+      -9.468991093217232
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00034.jpg"
+  },
+  {
+    "node_id": 35,
+    "timestamp": 1571636095779869,
+    "position": [
+      -167.5852647795921,
+      284.0257964746696,
+      -9.520420866316538
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00035.jpg"
+  },
+  {
+    "node_id": 36,
+    "timestamp": 1571636100579869,
+    "position": [
+      -165.89113543841512,
+      285.2662241677861,
+      -9.483494209813138
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00036.jpg"
+  },
+  {
+    "node_id": 37,
+    "timestamp": 1571636103379869,
+    "position": [
+      -166.9483269572841,
+      287.32428927558135,
+      -9.463281824417594
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00037.jpg"
+  },
+  {
+    "node_id": 38,
+    "timestamp": 1571636105779869,
+    "position": [
+      -166.9128359604335,
+      289.481103078304,
+      -9.44977781962902
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00038.jpg"
+  },
+  {
+    "node_id": 39,
+    "timestamp": 1571636108179869,
+    "position": [
+      -165.15157281934523,
+      290.7810743138663,
+      -9.423798515671338
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00039.jpg"
+  },
+  {
+    "node_id": 40,
+    "timestamp": 1571636110579869,
+    "position": [
+      -163.25596550049838,
+      291.9078558787721,
+      -9.448299730662018
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00040.jpg"
+  },
+  {
+    "node_id": 41,
+    "timestamp": 1571636112979869,
+    "position": [
+      -161.36314647778633,
+      293.10813720661497,
+      -9.419612435743966
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00041.jpg"
+  },
+  {
+    "node_id": 42,
+    "timestamp": 1571636115379869,
+    "position": [
+      -159.51590077060607,
+      294.3458088417059,
+      -9.425372876684742
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00042.jpg"
+  },
+  {
+    "node_id": 43,
+    "timestamp": 1571636117779869,
+    "position": [
+      -157.70609548623065,
+      295.62341276252914,
+      -9.429591087283995
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00043.jpg"
+  },
+  {
+    "node_id": 44,
+    "timestamp": 1571636120179869,
+    "position": [
+      -155.91970376125892,
+      296.95899732462567,
+      -9.415659158712993
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00044.jpg"
+  },
+  {
+    "node_id": 45,
+    "timestamp": 1571636122579869,
+    "position": [
+      -154.04080617000622,
+      298.1080188134044,
+      -9.412109761887042
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00045.jpg"
+  },
+  {
+    "node_id": 46,
+    "timestamp": 1571636124979869,
+    "position": [
+      -151.9307897946753,
+      298.4210908104889,
+      -9.4249479246565
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00046.jpg"
+  },
+  {
+    "node_id": 47,
+    "timestamp": 1571636127379869,
+    "position": [
+      -150.98175283697492,
+      296.57996901467163,
+      -9.455058267703137
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00047.jpg"
+  },
+  {
+    "node_id": 48,
+    "timestamp": 1571636129779869,
+    "position": [
+      -152.50137683335834,
+      295.1753262418555,
+      -9.466023353130169
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00048.jpg"
+  },
+  {
+    "node_id": 49,
+    "timestamp": 1571636132179869,
+    "position": [
+      -154.24210159364458,
+      296.2874253226219,
+      -9.436862722626815
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00049.jpg"
+  },
+  {
+    "node_id": 50,
+    "timestamp": 1571636134979869,
+    "position": [
+      -153.43600445338137,
+      298.30484777670205,
+      -9.42325121892821
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00050.jpg"
+  },
+  {
+    "node_id": 51,
+    "timestamp": 1571636137779869,
+    "position": [
+      -151.31893665432116,
+      297.5023287159307,
+      -9.446580449361045
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00051.jpg"
+  },
+  {
+    "node_id": 52,
+    "timestamp": 1571636140179869,
+    "position": [
+      -150.17639470312224,
+      295.6059166859058,
+      -9.462266992290958
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00052.jpg"
+  },
+  {
+    "node_id": 53,
+    "timestamp": 1571636142579869,
+    "position": [
+      -148.64644469204836,
+      294.0356895248016,
+      -9.477612337445466
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00053.jpg"
+  },
+  {
+    "node_id": 54,
+    "timestamp": 1571636144979869,
+    "position": [
+      -146.49528445574086,
+      293.65412558652787,
+      -9.498478814416682
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00054.jpg"
+  },
+  {
+    "node_id": 55,
+    "timestamp": 1571636147379869,
+    "position": [
+      -144.29414572477387,
+      293.9414406730364,
+      -9.513977317418915
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00055.jpg"
+  },
+  {
+    "node_id": 56,
+    "timestamp": 1571636149779869,
+    "position": [
+      -142.12278143614574,
+      294.4265316949864,
+      -9.5191951901245
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00056.jpg"
+  },
+  {
+    "node_id": 57,
+    "timestamp": 1571636152179869,
+    "position": [
+      -139.96532049335534,
+      294.9632082028155,
+      -9.528099014719297
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00057.jpg"
+  },
+  {
+    "node_id": 58,
+    "timestamp": 1571636154579869,
+    "position": [
+      -137.82893234632442,
+      295.56134034828636,
+      -9.531272192015152
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00058.jpg"
+  },
+  {
+    "node_id": 59,
+    "timestamp": 1571636156979869,
+    "position": [
+      -135.82502901636755,
+      296.54693526099305,
+      -9.531970305170224
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00059.jpg"
+  },
+  {
+    "node_id": 60,
+    "timestamp": 1571636159379869,
+    "position": [
+      -133.86229746659856,
+      297.58437230093693,
+      -9.526781989256413
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00060.jpg"
+  },
+  {
+    "node_id": 61,
+    "timestamp": 1571636161779869,
+    "position": [
+      -131.92109127596723,
+      298.66877418647243,
+      -9.522830616180904
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00061.jpg"
+  },
+  {
+    "node_id": 62,
+    "timestamp": 1571636164179869,
+    "position": [
+      -130.13520688924345,
+      299.954128017579,
+      -9.519876040030253
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00062.jpg"
+  },
+  {
+    "node_id": 63,
+    "timestamp": 1571636166579869,
+    "position": [
+      -128.85888361680497,
+      301.76902555800075,
+      -9.516182592836701
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00063.jpg"
+  },
+  {
+    "node_id": 64,
+    "timestamp": 1571636168979869,
+    "position": [
+      -128.11731608381865,
+      303.84566315830773,
+      -9.462975843721159
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00064.jpg"
+  },
+  {
+    "node_id": 65,
+    "timestamp": 1571636171379869,
+    "position": [
+      -128.71337534563165,
+      305.8459478282484,
+      -9.411408023606935
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00065.jpg"
+  },
+  {
+    "node_id": 66,
+    "timestamp": 1571636173779869,
+    "position": [
+      -130.40504715343212,
+      307.29254215909174,
+      -9.406841307595723
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00066.jpg"
+  },
+  {
+    "node_id": 67,
+    "timestamp": 1571636176179869,
+    "position": [
+      -132.28980222773788,
+      308.4753910421788,
+      -9.402806753395845
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00067.jpg"
+  },
+  {
+    "node_id": 68,
+    "timestamp": 1571636178579869,
+    "position": [
+      -134.4863832110949,
+      308.8376843525513,
+      -9.394430434236106
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00068.jpg"
+  },
+  {
+    "node_id": 69,
+    "timestamp": 1571636180979869,
+    "position": [
+      -136.6478032038193,
+      308.44340897708605,
+      -9.400988171647548
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00069.jpg"
+  },
+  {
+    "node_id": 70,
+    "timestamp": 1571636183379869,
+    "position": [
+      -138.49971348491866,
+      307.23873675460516,
+      -9.40694402562331
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00070.jpg"
+  },
+  {
+    "node_id": 71,
+    "timestamp": 1571636185779869,
+    "position": [
+      -140.14209703708337,
+      305.76419269027963,
+      -9.412669852674844
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00071.jpg"
+  },
+  {
+    "node_id": 72,
+    "timestamp": 1571636188179869,
+    "position": [
+      -142.26544119669234,
+      305.100178794491,
+      -9.40032730261292
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00072.jpg"
+  },
+  {
+    "node_id": 73,
+    "timestamp": 1571636190579869,
+    "position": [
+      -144.34514172211908,
+      304.2948457369163,
+      -9.411155220621268
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00073.jpg"
+  },
+  {
+    "node_id": 74,
+    "timestamp": 1571636192979869,
+    "position": [
+      -146.38714413382579,
+      303.419615344383,
+      -9.405512579006503
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00074.jpg"
+  },
+  {
+    "node_id": 75,
+    "timestamp": 1571636195379869,
+    "position": [
+      -148.3887222206922,
+      302.47923977028483,
+      -9.406499312252324
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00075.jpg"
+  },
+  {
+    "node_id": 76,
+    "timestamp": 1571636197779869,
+    "position": [
+      -150.1880874435402,
+      301.2114058506396,
+      -9.423438472475775
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00076.jpg"
+  },
+  {
+    "node_id": 77,
+    "timestamp": 1571636200179869,
+    "position": [
+      -151.8219551161957,
+      299.69831602783745,
+      -9.420658832240873
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00077.jpg"
+  },
+  {
+    "node_id": 78,
+    "timestamp": 1571636210579869,
+    "position": [
+      -149.2786467166467,
+      300.17475638433854,
+      -9.41971591495105
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00078.jpg"
+  },
+  {
+    "node_id": 79,
+    "timestamp": 1571636212979869,
+    "position": [
+      -147.47053963190385,
+      301.4094427620514,
+      -9.422168365109997
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00079.jpg"
+  },
+  {
+    "node_id": 80,
+    "timestamp": 1571636215379869,
+    "position": [
+      -145.35840369980664,
+      302.1217868931779,
+      -9.426279800452717
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00080.jpg"
+  },
+  {
+    "node_id": 81,
+    "timestamp": 1571636217779869,
+    "position": [
+      -143.30443283867535,
+      302.90571093763924,
+      -9.415174712666616
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00081.jpg"
+  },
+  {
+    "node_id": 82,
+    "timestamp": 1571636220179869,
+    "position": [
+      -141.24355776030262,
+      303.74601990038843,
+      -9.40867668378013
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00082.jpg"
+  },
+  {
+    "node_id": 83,
+    "timestamp": 1571636222579869,
+    "position": [
+      -139.17171007577303,
+      304.59116844140846,
+      -9.44667389447112
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00083.jpg"
+  },
+  {
+    "node_id": 84,
+    "timestamp": 1571636224979869,
+    "position": [
+      -137.17517353050053,
+      305.5842819083078,
+      -9.422437174416947
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00084.jpg"
+  },
+  {
+    "node_id": 85,
+    "timestamp": 1571636227379869,
+    "position": [
+      -135.0084849056393,
+      305.88134582450954,
+      -9.432122929000963
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00085.jpg"
+  },
+  {
+    "node_id": 86,
+    "timestamp": 1571636229779869,
+    "position": [
+      -132.7989482110614,
+      306.0653894614123,
+      -9.427374301819379
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00086.jpg"
+  },
+  {
+    "node_id": 87,
+    "timestamp": 1571636232179869,
+    "position": [
+      -130.58228147372915,
+      306.29442377946856,
+      -9.451890744295019
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00087.jpg"
+  },
+  {
+    "node_id": 88,
+    "timestamp": 1571636234579869,
+    "position": [
+      -128.37042179521987,
+      306.5742010543371,
+      -9.444543654287829
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00088.jpg"
+  },
+  {
+    "node_id": 89,
+    "timestamp": 1571636236979869,
+    "position": [
+      -126.16909926254618,
+      306.8233688025108,
+      -9.45953242172963
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00089.jpg"
+  },
+  {
+    "node_id": 90,
+    "timestamp": 1571636239379869,
+    "position": [
+      -123.94169294266706,
+      306.8214412811138,
+      -9.464084342113887
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00090.jpg"
+  },
+  {
+    "node_id": 91,
+    "timestamp": 1571636241779869,
+    "position": [
+      -121.71232577754039,
+      306.7951991095018,
+      -9.487081737980674
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00091.jpg"
+  },
+  {
+    "node_id": 92,
+    "timestamp": 1571636244179869,
+    "position": [
+      -119.4849330364333,
+      306.68660793032336,
+      -9.498461341785879
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00092.jpg"
+  },
+  {
+    "node_id": 93,
+    "timestamp": 1571636246579869,
+    "position": [
+      -117.26085766325372,
+      306.6018638056637,
+      -9.506058093351191
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00093.jpg"
+  },
+  {
+    "node_id": 94,
+    "timestamp": 1571636248979869,
+    "position": [
+      -115.03973145049723,
+      306.5533876165996,
+      -9.51153680924748
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00094.jpg"
+  },
+  {
+    "node_id": 95,
+    "timestamp": 1571636251379869,
+    "position": [
+      -112.80242119950023,
+      306.69192231894453,
+      -9.523167246287068
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00095.jpg"
+  },
+  {
+    "node_id": 96,
+    "timestamp": 1571636253779869,
+    "position": [
+      -110.62854703401261,
+      307.124292629495,
+      -9.540337054387678
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00096.jpg"
+  },
+  {
+    "node_id": 97,
+    "timestamp": 1571636256179869,
+    "position": [
+      -108.57393410728807,
+      307.9568567454551,
+      -9.547514326285864
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00097.jpg"
+  },
+  {
+    "node_id": 98,
+    "timestamp": 1571636258579869,
+    "position": [
+      -106.52353672793717,
+      308.82837301390475,
+      -9.544331889249808
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00098.jpg"
+  },
+  {
+    "node_id": 99,
+    "timestamp": 1571636260979869,
+    "position": [
+      -104.53036738844538,
+      309.8177951775364,
+      -9.537155495502969
+    ],
+    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00099.jpg"
+  }
+]
