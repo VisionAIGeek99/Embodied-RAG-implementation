@@ -7,7 +7,7 @@ system for embodied agents.
 ## Paper 
 [Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation](https://arxiv.org/abs/2409.18313)
 
-## Scripts usage
+## Topology map construction Scripts usage 
 
 ```
 # 1. setup_dataset.py 
@@ -18,21 +18,38 @@ uv run python -m scripts.setup_dataset \
     --max_nodes 50
 
 # 2. extract_viewpoints.py 
-uv run python -m scripts.extract_viewpoints
+uv run python -m scripts.topology_map_construction.extract_viewpoints
 
 # 3. caption_nodes.py
-uv run python -m scripts.caption_nodes
+uv run python -m scripts.topology_map_construction.caption_nodes
 
 # 4. build_edges.py
-uv run python -m scripts.build_edges
+uv run python -m scripts.topology_map_construction.build_edges
 cv
 # 5. build_graph.py
-uv run python -m scripts.build_graph
+uv run python -m scripts.topology_map_construction.build_graph
 
 # 6. viz_graph.py
-uv run python -m scripts.viz_graph
+uv run python -m scripts.topology_map_construction.viz_graph
 
 ```
+
+## Semantic forest generation Scripts usage 
+```
+# 1. embed_nodes.py
+uv run python -m scripts.semantic_forest_generation.embed_nodes
+
+# 2. build_memory.py
+uv run python -m scripts.semantic_forest_generation.build_memory
+
+
+```
+
+# Rerun visualization
+```
+uv run src/utils/rerun_viewer.py
+```
+
 
 ## Installation
 ```

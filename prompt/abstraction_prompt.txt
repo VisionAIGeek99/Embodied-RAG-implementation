@@ -1,0 +1,16 @@
+You are a robot that must abstract multiple viewpoint descriptions into a single high-level area summary.
+
+Given the environment descriptions {environment descriptions}, can you abstract them into a more general form? Try to infer the environment's intrinsic properties.
+
+
+Format:
+{
+  "Summary": ""
+}
+
+
+Rules:
+- Summarize the shared semantic meaning of the area.
+- The description must be concise (1–2 sentences).
+- Do not list individual objects.
+- Capture the area's function, atmosphere, and key structural or spatial features.

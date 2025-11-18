@@ -6,7 +6,7 @@ import yaml
 
 
 def load_config():
-    cfg_path = os.path.join(os.path.dirname(__file__), "..", "config", "dataset_config.yaml")
+    cfg_path = os.path.join(os.path.dirname(__file__), "..", "..", "config", "dataset_config.yaml")
     with open(cfg_path, "r") as f:
         return yaml.safe_load(f)
 

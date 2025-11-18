@@ -2,7 +2,7 @@ import csv
 import os
 from datetime import datetime
 
-LOG_FILE = "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/log/openai_api_usage_log.csv"
+LOG_FILE = "/disks/ssd1/kmw2622/workspace/embodied-rag/log/openai_api_usage_log.csv"
 
 if not os.path.exists(LOG_FILE):
     with open(LOG_FILE, mode="w", newline="", encoding="utf-8") as f:

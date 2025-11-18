@@ -13,7 +13,7 @@
       -0.7475198191981954,
       0.1592072197350825
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00000.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00000.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with a polished marble floor and a large wooden wall. An escalator is visible on the left, leading to an upper level, while a digital sign hangs above the entrance to a set of elevators.\",\n  \"Objects\": \"escalator, marble floor, wooden wall, elevators, digital sign\"\n}"
   },
   {
@@ -30,7 +30,7 @@
       -0.629058170521075,
       0.43186405430824226
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00001.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00001.jpg",
     "caption": "{\n  \"Description\": \"The scene showcases a modern architectural interior with a large, slanted glass structure and a textured green wall. The floor is made of polished marble, reflecting the surrounding elements.\",\n  \"Objects\": \"glass structure, green wall, marble floor, ceiling, light fixtures\"\n}"
   },
   {
@@ -47,7 +47,7 @@
       -0.25830054565611277,
       0.7223464635163795
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00002.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00002.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large glass windows allowing natural light to flood in. Polished marble floors reflect the sleek design elements, including tall columns and a staircase in the background.\",\n  \"Objects\": \"windows, columns, staircase, floor, light, walls\"\n}"
   },
   {
@@ -64,7 +64,7 @@
       -0.29352402269956535,
       -0.7093365983326484
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00003.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00003.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern interior space with large glass walls allowing natural light to flood in. Three individuals are present, standing on a polished marble floor, with greenery visible outside through the glass.\",\n  \"Objects\": \"glass walls, marble floor, individuals, greenery\"\n}"
   },
   {
@@ -81,7 +81,7 @@
       -0.728912811544496,
       -0.22906895349647582
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00004.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00004.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby with polished marble flooring and a modern design. There are two individuals, one standing and one walking, near large glass doors that lead to another area.\",\n  \"Objects\": \"lobby, marble flooring, glass doors, pillar, person, person\"\n}"
   },
   {
@@ -98,7 +98,7 @@
       -0.6754533598250069,
       0.35270067124806187
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00005.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00005.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern indoor space with a polished marble floor and a large green water feature. A person in a beige coat is walking while looking at their phone, and there are reflective surfaces and wooden elements in the architecture.\",\n  \"Objects\": \"floor, water feature, person, coat, phone, wall, ceiling, light, sign\"\n}"
   },
   {
@@ -115,7 +115,7 @@
       -0.22805714320342138,
       0.7329336555408535
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00006.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00006.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large glass windows and polished marble flooring. Tall columns support the ceiling, and there are steps leading to a raised area in the background.\",\n  \"Objects\": \"windows, columns, flooring, steps, walls, ceiling\"\n}"
   },
   {
@@ -132,7 +132,7 @@
       -0.2777471357684719,
       -0.7149531850884103
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00007.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00007.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern glass building with a spacious interior featuring marble flooring. Three individuals are standing near a glass railing, while greenery is visible outside through the large windows.\",\n  \"Objects\": \"glass, building, marble, flooring, railing, individuals, greenery, windows\"\n}"
   },
   {
@@ -149,7 +149,7 @@
       -0.660197819916021,
       -0.3857144592620769
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00008.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00008.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby with a polished marble floor and large glass windows. A prominent metallic column stands in the foreground, while automatic doors lead to the outside. A vending machine is visible in the background.\",\n  \"Objects\": \"lobby, floor, column, windows, doors, vending machine\"\n}"
   },
   {
@@ -166,7 +166,7 @@
       -0.738333745555407,
       -0.19946976805243685
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00009.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00009.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby with a polished marble floor and a large metallic column. Glass doors lead to another area, and there are wooden walls that add warmth to the space.\",\n  \"Objects\": \"column, floor, doors, wall, sign\"\n}"
   },
   {
@@ -183,7 +183,7 @@
       -0.7363931515333696,
       -0.21225859763537175
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00010.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00010.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with a polished marble floor and a large metallic column. There are glass doors leading to another space, and the walls feature a combination of wood and stone materials.\",\n  \"Objects\": \"column, floor, doors, wall, marble, wood, stone\"\n}"
   },
   {
@@ -200,7 +200,7 @@
       -0.6659759450594195,
       -0.38179449982837643
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00011.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00011.jpg",
     "caption": "{\n  \"Description\": \"The scene shows a modern entrance with large glass doors leading into a building. Two individuals are walking through the entrance, and a vending machine is visible to the side.\",\n  \"Objects\": \"doors, individuals, vending machine, wall, floor\"\n}"
   },
   {
@@ -217,7 +217,7 @@
       -0.6243736830880622,
       -0.4450618258812563
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00012.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00012.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby with large glass doors and a marble floor. Two individuals are standing near the entrance, while a vending machine is visible to the side.\",\n  \"Objects\": \"glass doors, marble floor, individuals, vending machine\"\n}"
   },
   {
@@ -234,7 +234,7 @@
       -0.7550363544940515,
       -0.12908767454282702
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00013.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00013.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with a polished marble floor and large glass doors. The walls feature a combination of wood and stone textures, creating an elegant atmosphere.\",\n  \"Objects\": \"floor, doors, wall, plaque, ceiling, light\"\n}"
   },
   {
@@ -251,7 +251,7 @@
       -0.7554724664635458,
       -0.12644395818544077
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00014.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00014.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts the entrance of a hotel with a modern design, featuring a combination of wood and stone walls. Glass doors lead into the lobby area, which is illuminated and has a polished marble floor.\",\n  \"Objects\": \"hotel, entrance, doors, wall, sign, marble floor, lobby\"\n}"
   },
   {
@@ -268,7 +268,7 @@
       -0.7324982940816703,
       -0.22285558902265284
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00015.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00015.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern entrance with a glass door and a polished stone wall. A sign is mounted beside the door, and the interior features a sleek, minimalist design with bright lighting.\",\n  \"Objects\": \"glass door, sign, wall, lighting, floor\"\n}"
   },
   {
@@ -285,7 +285,7 @@
       -0.6469697936047046,
       -0.4108188204719398
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00016.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00016.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby area with polished stone walls and a shiny floor. A black trash bin is visible in the corner, and there are several ceiling lights illuminating the space.\",\n  \"Objects\": \"lobby, walls, floor, trash bin, ceiling lights\"\n}"
   },
   {
@@ -302,7 +302,7 @@
       -0.5524698299602102,
       -0.5393962616541516
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00017.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00017.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby with polished marble walls and floor. Soft lighting illuminates the area, and a plaque is mounted on the wall, adding a touch of elegance to the minimalist design.\",\n  \"Objects\": \"walls, floor, lights, plaque\"\n}"
   },
   {
@@ -319,7 +319,7 @@
       -0.4306341882741861,
       -0.6386068572704624
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00018.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00018.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with polished granite walls and floors. A sign for the Intercontinental Hotel is prominently displayed, and there are elevator doors visible in the background.\",\n  \"Objects\": \"sign, wall, floor, elevator doors, lights\"\n}"
   },
   {
@@ -336,7 +336,7 @@
       -0.22794632637325518,
       -0.7378897917397688
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00019.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00019.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern lobby with polished gray stone walls and a reflective floor. Bright ceiling lights illuminate the area, creating a clean and minimalist atmosphere.\",\n  \"Objects\": \"walls, floor, lights\"\n}"
   },
   {
@@ -353,7 +353,7 @@
       -0.14971310234257562,
       -0.7567147936242391
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00020.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00020.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern lobby with polished gray walls and flooring. Bright ceiling lights illuminate the area, creating a sleek and minimalist atmosphere.\",\n  \"Objects\": \"walls, floor, lights, elevator\"\n}"
   },
   {
@@ -370,7 +370,7 @@
       -0.15370479822738561,
       -0.7559172244968113
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00021.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00021.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with polished stone walls and a reflective floor. Bright ceiling lights illuminate the space, which features elevator doors on one side.\",\n  \"Objects\": \"elevator doors, lights, walls, floor\"\n}"
   },
   {
@@ -387,7 +387,7 @@
       -0.15890464158748047,
       -0.7570849108556357
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00022.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00022.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with polished gray walls and a shiny floor. There are elevator doors visible on one side, and the ceiling is illuminated by multiple recessed lights.\",\n  \"Objects\": \"elevator doors, walls, floor, lights\"\n}"
   },
   {
@@ -404,7 +404,7 @@
       -0.18184711083289273,
       -0.748453048141946
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00023.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00023.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern elevator lobby with polished gray walls and a reflective floor. Bright ceiling lights illuminate the area, creating a sleek and spacious atmosphere.\",\n  \"Objects\": \"elevator, walls, floor, lights\"\n}"
   },
   {
@@ -421,7 +421,7 @@
       -0.22944207506679637,
       -0.7323068320577052
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00024.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00024.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern elevator area with polished gray walls and a reflective floor. Soft lighting illuminates the space, creating a sleek and minimalist atmosphere.\",\n  \"Objects\": \"elevator, walls, floor, lights\"\n}"
   },
   {
@@ -438,7 +438,7 @@
       -0.2690784708589613,
       0.7198379124841462
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00025.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00025.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a minimalist interior with smooth gray walls and a polished floor. Subtle lighting fixtures are visible, reflecting off the surfaces, creating a sleek and modern atmosphere.\",\n  \"Objects\": \"walls, floor, lighting fixtures\"\n}"
   },
   {
@@ -455,7 +455,7 @@
       -0.6488343103288795,
       0.40309015989446256
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00026.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00026.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern hallway with polished gray walls and bright ceiling lights. A fire extinguisher is visible on the floor, and a person is seen in the background, adding to the ambiance of the space.\",\n  \"Objects\": \"wall, lights, fire extinguisher, floor, person\"\n}"
   },
   {
@@ -472,7 +472,7 @@
       -0.7618825366285926,
       -0.08187942048218182
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00027.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00027.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby area with polished marble flooring and modern lighting. There are two individuals walking in the space, and an elevator is visible in the background.\",\n  \"Objects\": \"lobby, flooring, lights, elevator, wall, people\"\n}"
   },
   {
@@ -489,7 +489,7 @@
       -0.7550735448424575,
       -0.1208852452869148
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00028.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00028.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby with polished gray walls and a shiny floor. A person is seen walking towards an elevator, and the lighting creates a bright atmosphere.\",\n  \"Objects\": \"walls, floor, elevator, lights, sign, person\"\n}"
   },
   {
@@ -506,7 +506,7 @@
       -0.7614459606645936,
       0.03441477215405733
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00029.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00029.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with polished floors and a sleek design. Two individuals are walking towards the camera, and there are elevators visible in the background along with a wall-mounted sign.\",\n  \"Objects\": \"lobby, elevators, individuals, sign, floor, ceiling lights, wall\"\n}"
   },
   {
@@ -523,7 +523,7 @@
       -0.7559163417354313,
       0.11238616782251859
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00030.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00030.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby area with polished floors and modern lighting. Two individuals are standing near the elevators, while a sign is mounted on the wall.\",\n  \"Objects\": \"lobby, elevators, individuals, sign, floor, lights, wall\"\n}"
   },
   {
@@ -540,7 +540,7 @@
       -0.7535668857081996,
       0.12315275015596176
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00031.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00031.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with two individuals standing near the elevators. The floor is shiny and made of stone, and the walls are adorned with a sleek, reflective surface.\",\n  \"Objects\": \"elevators, individuals, floor, wall, lighting, cart\"\n}"
   },
   {
@@ -557,7 +557,7 @@
       -0.7444240736664643,
       0.17476650630015378
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00032.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00032.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with shiny gray walls and a polished floor. Two individuals are present, standing near an elevator, while a couple of carts are positioned nearby.\",\n  \"Objects\": \"elevator, carts, wall, floor, lights, people\"\n}"
   },
   {
@@ -574,7 +574,7 @@
       -0.7404607420965464,
       0.18786575421947074
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00033.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00033.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern elevator lobby with shiny gray walls and bright overhead lights. There are two elevators visible, along with a cart and a trash bin in the corner.\",\n  \"Objects\": \"elevators, lights, cart, trash bin, wall\"\n}"
   },
   {
@@ -591,7 +591,7 @@
       -0.7418565909713624,
       0.18340750233781514
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00034.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00034.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern elevator lobby with polished stone walls and a shiny floor. There are three elevator doors, and the lighting creates a bright atmosphere. Fire extinguishers are positioned on the right side.\",\n  \"Objects\": \"elevator doors, wall, floor, lights, fire extinguishers\"\n}"
   },
   {
@@ -608,7 +608,7 @@
       -0.7065249033096314,
       0.2933574300681465
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00035.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00035.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern elevator area with two elevators and a wall featuring a sign indicating the floor number. The walls are made of polished stone, and the floor has a textured surface for safety.\",\n  \"Objects\": \"elevators, wall, sign, floor, buttons, lighting\"\n}"
   },
   {
@@ -625,7 +625,7 @@
       -0.08446774706650408,
       -0.7626747795521225
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00036.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00036.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby area with polished floors and bright overhead lighting. There are glass doors leading to another area, and a person is standing near the wall.\",\n  \"Objects\": \"floor, lights, doors, wall, person\"\n}"
   },
   {
@@ -642,7 +642,7 @@
       -0.170527763700179,
       -0.7523386083805937
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00037.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00037.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby area with polished floors and bright overhead lights. There are elevators on one side and a person walking with a device in hand.\",\n  \"Objects\": \"lobby, elevators, lights, floor, person, device\"\n}"
   },
   {
@@ -659,7 +659,7 @@
       -0.15365739749080362,
       0.7555161094061059
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00038.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00038.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern entrance area with large glass doors and polished floors. There are emergency exit signs visible, and the space appears to be well-lit and spacious.\",\n  \"Objects\": \"doors, floor, signs, walls, ceiling, light\"\n}"
   },
   {
@@ -676,7 +676,7 @@
       -0.38113288242041893,
       0.6669577579616691
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00039.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00039.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large windows allowing natural light to flood in. The polished marble floor reflects the architectural features, including columns and a staircase in the background.\",\n  \"Objects\": \"windows, floor, columns, staircase, walls, light fixtures\"\n}"
   },
   {
@@ -693,7 +693,7 @@
       -0.37288279467162866,
       0.6712187590224782
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00040.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00040.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large glass walls and polished marble flooring. There are several pillars and a curved structure in the background, suggesting an open and airy environment.\",\n  \"Objects\": \"pillars, glass walls, marble flooring, curved structure, seating area\"\n}"
   },
   {
@@ -710,7 +710,7 @@
       -0.3649708929896,
       0.6754995409848226
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00041.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00041.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large glass windows allowing natural light to flood in. The polished marble floor reflects the architectural features, including curved walls and pillars, creating an open and airy atmosphere.\",\n  \"Objects\": \"windows, floor, pillars, walls, staircase, light, ceiling\"\n}"
   },
   {
@@ -727,7 +727,7 @@
       -0.3561099956598931,
       0.6810288493772462
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00042.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00042.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large glass windows allowing natural light to flood in. The polished marble floor reflects the architectural features, including a curved ceiling and columns.\",\n  \"Objects\": \"windows, floor, ceiling, columns, stairs, walls, light\"\n}"
   },
   {
@@ -744,7 +744,7 @@
       -0.34693726792494556,
       0.6861647679972738
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00043.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00043.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious modern interior with large glass windows allowing natural light to flood in. The polished floor reflects the architectural elements, including a curved staircase and metallic columns.\",\n  \"Objects\": \"windows, floor, staircase, columns, walls, light\"\n}"
   },
   {
@@ -761,7 +761,7 @@
       -0.33694641389818286,
       0.6900093545841155
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00044.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00044.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large glass walls and polished marble flooring. There are escalators and a few people visible in the distance, contributing to the open and airy atmosphere.\",\n  \"Objects\": \"glass walls, marble flooring, escalators, people, columns, signage\"\n}"
   },
   {
@@ -778,7 +778,7 @@
       -0.454411937193137,
       0.6169861705234555
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00045.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00045.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious, modern interior with large glass walls and polished marble floors. There are escalators in the background and a sign indicating 'North' on the wall.\",\n  \"Objects\": \"escalators, glass walls, marble floors, sign, pillars\"\n}"
   },
   {
@@ -795,7 +795,7 @@
       -0.6258583956293211,
       0.43994471439347976
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00046.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00046.jpg",
     "caption": "{\n  \"Description\": \"The scene showcases a modern architectural interior with a sleek design featuring glass and metal elements. A large green wall and polished marble flooring create a sophisticated atmosphere.\",\n  \"Objects\": \"glass, metal, wall, marble, floor\"\n}"
   },
   {
@@ -812,7 +812,7 @@
       -0.7642285314101193,
       -0.03260667539396036
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00047.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00047.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern lobby area with polished marble flooring and wooden paneling. There are elevators in the background and a digital sign displaying directions.\",\n  \"Objects\": \"lobby, elevators, sign, marble floor, wooden paneling, column, fire extinguisher\"\n}"
   },
   {
@@ -829,7 +829,7 @@
       -0.5875537057203907,
       -0.49752552682360784
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00048.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00048.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a spacious lobby with marble flooring and large glass doors. Three individuals are conversing near the entrance, while a vending machine is visible in the corner.\",\n  \"Objects\": \"lobby, doors, individuals, marble flooring, vending machine, glass\"\n}"
   },
   {
@@ -846,7 +846,7 @@
       -0.166426432102555,
       -0.7528873131362274
     ],
-    "image": "/disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed/frames/00049.jpg",
+    "image": "/disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed/frames/00049.jpg",
     "caption": "{\n  \"Description\": \"The scene depicts a modern interior space with large glass windows allowing natural light to flood in. A person stands near a polished marble floor, surrounded by greenery visible outside.\",\n  \"Objects\": \"window, glass, floor, marble, person, greenery, pillar\"\n}"
   }
 ]

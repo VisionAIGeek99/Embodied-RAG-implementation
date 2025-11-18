@@ -15,6 +15,6 @@ dataset:
     width: 2592
   max_nodes: 50
   name: coex_1f
-  processed_root: /disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed
+  processed_root: /disks/ssd1/kmw2622/workspace/embodied-rag/datasets/coex_1f_processed
   raw_root: /disks/ssd1/kmw2622/dataset/coex_1F_release_mapping/1F/release/mapping
   target_camera: '40027089_00'
