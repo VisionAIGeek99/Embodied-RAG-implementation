@@ -1,9 +1,20 @@
 dataset:
-  max_nodes: 100
+  camera:
+    camera_id: '40027089_00'
+    cx: 1295.3450452729537
+    cy: 1027.9907289437965
+    fx: 1714.035241339915
+    fy: 1716.3048009085792
+    height: 2048
+    k1: -0.1583217929254673
+    k2: 0.08904806652679555
+    model: OPENCV
+    p1: 0.00074362672824363
+    p2: -3.126355977176e-05
+    sensor_type: camera
+    width: 2592
+  max_nodes: 50
   name: coex_1f
   processed_root: /disks/ssd1/kmw2622/workspace/semantic_forest_generation/datasets/coex_1f_processed
   raw_root: /disks/ssd1/kmw2622/dataset/coex_1F_release_mapping/1F/release/mapping
   target_camera: '40027089_00'
-  
-vlm:
-  caption_prompt_file: "prompts/caption_prompt.txt"

@@ -16,6 +16,30 @@ def ensure_dir(path):
     if not os.path.exists(path):
         os.makedirs(path)
 
+def rotation_to_matrix(r):
+    """Convert kapture rotation (matrix / array quaternion / quaternion object) to 3×3 matrix."""
+    if r is None:
+        return np.eye(3)
+
+    # 1) numpy-quaternion object
+    if isinstance(r, quaternion.quaternion):
+        return quaternion.as_rotation_matrix(r)
+
+    # 2) numpy array (matrix or quaternion array)
+    r = np.array(r)
+
+    if r.shape == (3, 3):
+        return r
+
+    if r.shape == (4,):
+        # array quaternion -> (qw, qx, qy, qz)
+        qw, qx, qy, qz = r
+        q = quaternion.quaternion(qw, qx, qy, qz)
+        return quaternion.as_rotation_matrix(q)
+
+    raise ValueError(f"Unsupported rotation format: shape={r.shape}, value={r}")
+
+
 def main():
     cfg = load_config()
     RAW_ROOT = cfg["dataset"]["raw_root"]
@@ -60,6 +84,12 @@ def main():
         t = world_pose.t.flatten()
         rx, ry, rz = float(t[0]), float(t[1]), float(t[2])
 
+
+        # ---- Quaternion ----
+        R = rotation_to_matrix(world_pose.r) 
+        q = quaternion.from_rotation_matrix(R)
+        qx, qy, qz, qw = float(q.x), float(q.y), float(q.z), float(q.w)
+
         xs.append(rx)
         ys.append(ry)
         zs.append(rz)
@@ -77,6 +107,8 @@ def main():
         if img_path and os.path.exists(img_path):
             img = cv2.imread(img_path)
             save_path = os.path.join(FRAME_DIR, f"{node_id:05d}.jpg")
+            # Resize to whatever resolution you need
+            img = cv2.resize(img, (1024, 810), interpolation=cv2.INTER_AREA)
             cv2.imwrite(save_path, img)
             saved_img = save_path
 
@@ -84,6 +116,7 @@ def main():
             "node_id": node_id,
             "timestamp": int(timestamp),
             "position": [rx, ry, rz],
+            "quaternion": [qx, qy, qz, qw],     
             "image": saved_img
         })
 

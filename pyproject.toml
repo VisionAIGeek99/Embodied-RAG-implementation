@@ -9,4 +9,5 @@ dependencies = [
     "numpy>=2.3.4",
     "openai>=2.8.0",
     "opencv-python>=4.11.0.86",
+    "rerun-sdk>=0.27.2",
 ]

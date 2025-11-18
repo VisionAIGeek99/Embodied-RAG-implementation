@@ -69,7 +69,7 @@ for timestamp in sorted_timestamps:
 
     node_id += 1
     count += 1
-    if count >= 500:
+    if count >= 50:
         break
 
 xs = np.array(xs, dtype=float)
@@ -103,8 +103,8 @@ for i, timestamp in enumerate(valid_timestamps):
 
     plt.arrow(
         x, y, fx, fy,
-        head_width=0.1,
-        head_length=0.1,
+        head_width=0.2,
+        head_length=0.2,
         fc='black',
         ec='black'
     )

@@ -11,7 +11,6 @@ from src.utils.log_openai_usage import log_openai_usage
 # ===========================
 # API KEY
 # ===========================
-os.environ["OPENAI_API_KEY"] = '' # your openai api key
 
 print("OPENAI_API_KEY loaded:", "OPENAI_API_KEY" in os.environ)
 
