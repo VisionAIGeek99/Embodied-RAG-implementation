@@ -25,7 +25,7 @@ uv run python -m scripts.topology_map_construction.caption_nodes
 
 # 4. build_edges.py
 uv run python -m scripts.topology_map_construction.build_edges
-cv
+
 # 5. build_graph.py
 uv run python -m scripts.topology_map_construction.build_graph
 
