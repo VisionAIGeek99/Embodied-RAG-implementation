@@ -31,7 +31,6 @@ uv run python -m scripts.topology_map_construction.build_graph
 
 # 6. viz_graph.py
 uv run python -m scripts.topology_map_construction.viz_graph
-
 ```
 
 ## Semantic forest generation Scripts usage 
@@ -41,11 +40,9 @@ uv run python -m scripts.semantic_forest_generation.embed_nodes
 
 # 2. build_memory.py
 uv run python -m scripts.semantic_forest_generation.build_memory
-
-
 ```
 
-# Rerun visualization
+## Rerun visualization
 ```
 uv run src/utils/rerun_viewer.py
 ```
